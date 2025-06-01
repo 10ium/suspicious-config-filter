@@ -8,7 +8,7 @@ on:
         required: true
         default: 'links.txt'
       report_output_name:
-        description: 'نام فایل گزارش خروجی در ریشه مخزن' # توضیحات به‌روز شد
+        description: 'نام فایل گزارش خروجی در ریشه مخزن'
         required: true
         default: 'suspicious_configs_report.txt'
   schedule:
@@ -30,15 +30,13 @@ jobs:
 
     steps:
       - name: Harden Runner (ایمن‌سازی اجراکننده)
-        uses: step-security/harden-runner@0d381219ddf674d61a7572ddd1943a678107595c # v2.9.0
+        # استفاده از تگ نسخه پایدار به جای SHA خاص
+        uses: step-security/harden-runner@v2.9.0
         with:
           egress-policy: audit # پس از چند بار اجرا، به 'block' تغییر دهید اگر مشکلی نبود
 
       - name: Checkout repository (دریافت کد مخزن)
         uses: actions/checkout@a5ac7e51b4109f0b924df8db3fd77f308cd9c386 # v4.1.6
-        # اگر نیاز به پوش کردن به شاخه‌های محافظت شده دارید، ممکن است به یک PAT نیاز داشته باشید
-        # with:
-        #   token: ${{ secrets.YOUR_PAT_WITH_REPO_SCOPE }} # اگر از PAT استفاده می‌کنید
 
       - name: Set up Python (راه‌اندازی پایتون)
         uses: actions/setup-python@82c7e631bb3cdc910f68e0081d67478d79c6982d # v5.1.0
@@ -88,7 +86,6 @@ jobs:
           git add "${{ env.REPORT_FILE_TO_USE }}"
           
           # بررسی اینکه آیا تغییری برای کامیت کردن وجود دارد یا خیر
-          # اگر فایل گزارش نسبت به نسخه قبلی در مخزن تغییری نکرده باشد، کامیت خالی ایجاد نمی‌شود
           if git diff --staged --quiet; then
             echo "هیچ تغییری در فایل ${{ env.REPORT_FILE_TO_USE }} برای کامیت کردن وجود ندارد."
             exit 0 # خروج موفقیت‌آمیز
@@ -101,7 +98,6 @@ jobs:
           git commit -m "$COMMIT_MESSAGE"
           
           # تعیین شاخه فعلی برای پوش کردن
-          # این دستور شاخه‌ای که اکشن روی آن اجرا شده را برمی‌گرداند
           CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
           echo "درحال پوش کردن تغییرات به شاخه: $CURRENT_BRANCH"
           git push origin "$CURRENT_BRANCH"
