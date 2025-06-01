@@ -7,7 +7,7 @@ import hashlib
 import json
 from datetime import datetime, timezone, timedelta
 
-# --- ثابت‌های پیکربندی ---
+# --- ثابت‌های پیکربندی (بدون تغییر) ---
 MIN_PERCENT25_COUNT = int(os.environ.get('MIN_PERCENT25_COUNT', 15))
 MAX_CONFIG_LENGTH = int(os.environ.get('MAX_CONFIG_LENGTH', 1500))
 KEYWORD = "i_love_"
@@ -17,10 +17,11 @@ CONFIG_PREFIXES = (
     "ss://", "ssr://", "tuic://", "hy2://"
 )
 REQUEST_TIMEOUT = 20
-OUTPUT_DETAILS_DIR = "suspicious_config_details" # نام پوشه برای گزارش‌های جزئی مشکوک
-STATUS_DB_FILE = "link_update_status.json"       # فایل ذخیره وضعیت هش و تاریخ لینک‌ها
-STALENESS_REPORT_FILE = "link_staleness_report.txt" # فایل گزارش قدمت لینک‌ها
+OUTPUT_DETAILS_DIR = "suspicious_config_details"
+STATUS_DB_FILE = "link_update_status.json"
+STALENESS_REPORT_FILE = "link_staleness_report.txt"
 
+# --- توابع add_base64_padding, decode_subscription_content, check_config_suspicious, sanitize_url_for_filename (بدون تغییر) ---
 def add_base64_padding(s: str) -> str:
     missing_padding = len(s) % 4
     if missing_padding:
@@ -28,7 +29,6 @@ def add_base64_padding(s: str) -> str:
     return s
 
 def decode_subscription_content(content_bytes: bytes) -> tuple[str, bool]:
-    # (این تابع بدون تغییر باقی می‌ماند - همانند نسخه قبلی)
     text_content_from_bytes = ""
     was_base64_decoded = False
     try:
@@ -62,7 +62,6 @@ def decode_subscription_content(content_bytes: bytes) -> tuple[str, bool]:
     return text_content_from_bytes, was_base64_decoded
 
 def check_config_suspicious(config_str: str) -> list[str]:
-    # (این تابع بدون تغییر باقی می‌ماند - همانند نسخه قبلی)
     reasons = []
     if KEYWORD.lower() in config_str.lower():
         reasons.append(f"حاوی کلمه کلیدی '{KEYWORD}' است")
@@ -77,7 +76,6 @@ def check_config_suspicious(config_str: str) -> list[str]:
     return reasons
 
 def sanitize_url_for_filename(url_str: str) -> str:
-    # (این تابع بدون تغییر باقی می‌ماند - همانند نسخه قبلی)
     url_hash = hashlib.md5(url_str.encode('utf-8')).hexdigest()[:8]
     try:
         domain_part = re.match(r"https?://([^/]+)", url_str).group(1)
@@ -87,8 +85,8 @@ def sanitize_url_for_filename(url_str: str) -> str:
         filename_base = f"url_{url_hash}"
     return filename_base + ".txt"
 
+# --- توابع load_status_db و save_status_db (بدون تغییر) ---
 def load_status_db() -> dict:
-    """فایل پایگاه داده وضعیت لینک‌ها را بارگیری می‌کند."""
     if os.path.exists(STATUS_DB_FILE):
         try:
             with open(STATUS_DB_FILE, 'r', encoding='utf-8') as f:
@@ -100,7 +98,6 @@ def load_status_db() -> dict:
     return {}
 
 def save_status_db(data: dict):
-    """فایل پایگاه داده وضعیت لینک‌ها را ذخیره می‌کند."""
     try:
         with open(STATUS_DB_FILE, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
@@ -108,29 +105,34 @@ def save_status_db(data: dict):
     except Exception as e:
         print(f"خطا در ذخیره پایگاه داده وضعیت لینک‌ها ({STATUS_DB_FILE}): {e}")
 
+
 def main(links_file_path: str, main_summary_report_file_path: str):
-    suspicious_summary_data = [] # (url, count, detail_file_name)
-    staleness_report_entries = [] # (url, status_message)
+    suspicious_summary_data = []
+    staleness_data_for_sorting = [] # لیستی از دیکشنری‌ها برای مرتب‌سازی
 
     status_db = load_status_db()
     current_run_time_utc = datetime.now(timezone.utc)
 
     os.makedirs(OUTPUT_DETAILS_DIR, exist_ok=True)
-    print(f"پوشه گزارش‌های جزئی مشکوک: {os.path.abspath(OUTPUT_DETAILS_DIR)}")
-
+    # ... (بخش خواندن فایل لینک‌ها بدون تغییر) ...
     try:
         with open(links_file_path, 'r', encoding='utf-8') as f_links:
             urls = [line.strip() for line in f_links if line.strip() and not line.startswith('#')]
     except FileNotFoundError:
         print(f"خطا: فایل لینک‌ها در مسیر '{links_file_path}' یافت نشد.")
         sys.exit(1)
-    # ... (ادامه سایر error handling ها برای خواندن فایل لینک)
+    except Exception as e:
+        print(f"خطا در خواندن فایل لینک‌ها '{links_file_path}': {e}")
+        sys.exit(1)
+
 
     for url in urls:
         print(f"درحال پردازش URL: {url}")
-        url_status_info = status_db.get(url, {})
+        url_status_info = status_db.get(url, {}) # اطلاعات قبلی این URL از پایگاه داده
         content_hash = None
         fetch_error = False
+        status_message_for_staleness_report = ""
+        sort_key_for_staleness = float('inf') # پیش‌فرض برای خطاها یا موارد نامشخص
 
         try:
             response = requests.get(url, timeout=REQUEST_TIMEOUT)
@@ -141,50 +143,57 @@ def main(links_file_path: str, main_summary_report_file_path: str):
             print(f"  خطا در دریافت محتوای URL {url}: {e}")
             fetch_error = True
         
-        # پردازش وضعیت به‌روزرسانی لینک
-        status_message_for_staleness_report = ""
         current_url_iso_timestamp = current_run_time_utc.isoformat()
 
         if fetch_error:
-            if url_status_info.get("last_changed_timestamp"):
-                last_changed_dt = datetime.fromisoformat(url_status_info["last_changed_timestamp"].replace('Z', '+00:00'))
+            last_changed_ts_str = url_status_info.get("last_changed_timestamp")
+            if last_changed_ts_str:
+                last_changed_dt = datetime.fromisoformat(last_changed_ts_str.replace('Z', '+00:00'))
                 days_stale = (current_run_time_utc - last_changed_dt).days
                 status_message_for_staleness_report = f"خطا در دریافت. آخرین به‌روزرسانی محتوا {days_stale} روز پیش بود. (آخرین تلاش برای بررسی: {current_run_time_utc.strftime('%Y-%m-%d')})"
-            else: # لینک جدیدی که در اولین تلاش خطا داده یا قبلا هم خطا داشته
-                status_message_for_staleness_report = f"خطا در دریافت. (آخرین تلاش برای بررسی: {current_run_time_utc.strftime('%Y-%m-%d')})"
+                sort_key_for_staleness = days_stale # مرتب‌سازی بر اساس آخرین زمان موفق
+            else:
+                status_message_for_staleness_report = f"خطا در دریافت (لینک جدید یا بدون سابقه موفق). (آخرین تلاش برای بررسی: {current_run_time_utc.strftime('%Y-%m-%d')})"
+                sort_key_for_staleness = float('inf') # در انتها قرار می‌گیرد
             url_status_info["last_checked_timestamp"] = current_url_iso_timestamp
-            # last_hash و last_changed_timestamp تغییر نمی‌کنند چون محتوای جدیدی دریافت نشده
         
-        elif content_hash: # اگر دریافت موفق بود و هش داریم
+        elif content_hash: # دریافت موفق
             last_known_hash = url_status_info.get("last_hash")
             
             if last_known_hash == content_hash: # محتوا تغییر نکرده
                 last_changed_dt_str = url_status_info.get("last_changed_timestamp")
-                if last_changed_dt_str:
+                if last_changed_dt_str: # باید همیشه وجود داشته باشد اگر last_known_hash معتبر است
                     last_changed_dt = datetime.fromisoformat(last_changed_dt_str.replace('Z', '+00:00'))
                     days_stale = (current_run_time_utc - last_changed_dt).days
                     status_message_for_staleness_report = f"{days_stale} روز از آخرین به‌روزرسانی محتوا گذشته است."
-                else: # این حالت نباید رخ دهد اگر داده‌ها سازگار باشند
-                    status_message_for_staleness_report = "وضعیت نامشخص (اولین بررسی موفق پس از خطا؟)"
-                    url_status_info["last_changed_timestamp"] = current_url_iso_timestamp # تاریخ تغییر را همین امروز میزنیم
+                    sort_key_for_staleness = days_stale
+                else: # حالت غیرمحتمل: هش قبلی وجود دارد ولی تاریخ آخرین تغییر نه!
+                    status_message_for_staleness_report = "امروز به‌روز شد (سابقه تاریخ تغییر ناقص بود)." # فرض می‌کنیم تازه است
+                    sort_key_for_staleness = 0 # یا 1- اگر بخواهیم مانند "امروز آپدیت شد" رفتار کند
+                    url_status_info["last_changed_timestamp"] = current_url_iso_timestamp # تاریخ تغییر را امروز ثبت می‌کنیم
             else: # محتوا تغییر کرده یا لینک جدید است
                 if last_known_hash: # یعنی قبلا بوده و الان تغییر کرده
                     status_message_for_staleness_report = "امروز به‌روز شد (محتوا تغییر کرد)."
+                    sort_key_for_staleness = -1 # بالاتر از لینک‌های 0 روزه
                 else: # لینک جدید است
                     status_message_for_staleness_report = f"جدید - اولین بررسی موفق در {current_run_time_utc.strftime('%Y-%m-%d')}."
+                    sort_key_for_staleness = -2 # بالاتر از همه
                 url_status_info["last_hash"] = content_hash
                 url_status_info["last_changed_timestamp"] = current_url_iso_timestamp
             
             url_status_info["last_checked_timestamp"] = current_url_iso_timestamp
         
-        status_db[url] = url_status_info # به‌روزرسانی یا افزودن اطلاعات لینک در پایگاه داده وضعیت
-        if status_message_for_staleness_report: # اگر پیامی برای این URL تولید شده
-             staleness_report_entries.append((url, status_message_for_staleness_report))
+        status_db[url] = url_status_info
+        if status_message_for_staleness_report:
+             staleness_data_for_sorting.append({
+                 "url": url,
+                 "message": status_message_for_staleness_report,
+                 "sort_key": sort_key_for_staleness
+             })
 
-
-        # پردازش کانفیگ‌های مشکوک (بخش قبلی، بدون تغییر زیاد در منطق داخلی‌اش)
+        # --- پردازش کانفیگ‌های مشکوک (بدون تغییر در منطق اصلی این بخش) ---
         if not fetch_error:
-            text_content, _ = decode_subscription_content(content_bytes) # محتوای دیکود شده
+            text_content, _ = decode_subscription_content(content_bytes)
             config_lines = text_content.splitlines()
             suspicious_configs_count_for_url = 0
             current_url_suspicious_config_details_for_file = []
@@ -194,7 +203,6 @@ def main(links_file_path: str, main_summary_report_file_path: str):
                 config_str = line_content.strip()
                 if not config_str or not any(config_str.startswith(prefix) for prefix in CONFIG_PREFIXES):
                     continue
-                
                 reasons = check_config_suspicious(config_str)
                 if reasons:
                     suspicious_configs_count_for_url += 1
@@ -205,11 +213,9 @@ def main(links_file_path: str, main_summary_report_file_path: str):
                         detail += "----------------------------------------\n"
                         current_url_suspicious_config_details_for_file.append(detail)
                         unique_flagged_configs_in_this_url.add(config_str)
-
             if suspicious_configs_count_for_url > 0:
                 detail_filename = sanitize_url_for_filename(url)
                 suspicious_summary_data.append((url, suspicious_configs_count_for_url, detail_filename))
-                
                 detail_filepath = os.path.join(OUTPUT_DETAILS_DIR, detail_filename)
                 try:
                     with open(detail_filepath, 'w', encoding='utf-8') as f_detail:
@@ -220,14 +226,12 @@ def main(links_file_path: str, main_summary_report_file_path: str):
                     print(f"  گزارش جزئیات مشکوک برای {url} در فایل {detail_filepath} ذخیره شد.")
                 except Exception as e:
                     print(f"  خطا در نوشتن فایل جزئیات مشکوک {detail_filepath}: {e}")
-            # else:
-            #     print(f"  هیچ کانفیگ مشکوکی برای URL {url} یافت نشد.")
-        print("-" * 30) # جداکننده بین پردازش URL ها
+        print("-" * 30)
 
     # ذخیره پایگاه داده وضعیت به‌روز شده
     save_status_db(status_db)
 
-    # نوشتن فایل گزارش خلاصه کانفیگ‌های مشکوک
+    # --- نوشتن فایل گزارش خلاصه کانفیگ‌های مشکوک (بدون تغییر) ---
     try:
         with open(main_summary_report_file_path, 'w', encoding='utf-8') as f_main_report:
             if not suspicious_summary_data:
@@ -244,19 +248,23 @@ def main(links_file_path: str, main_summary_report_file_path: str):
     except Exception as e:
         print(f"خطا در نوشتن فایل گزارش خلاصه '{main_summary_report_file_path}': {e}")
 
-    # نوشتن فایل گزارش قدمت لینک‌ها
+    # مرتب‌سازی داده‌های گزارش قدمت لینک‌ها
+    # لینک‌های جدیدتر و به‌روزتر در بالا، قدیمی‌ترها و خطاها در پایین
+    staleness_data_for_sorting.sort(key=lambda x: x["sort_key"])
+
+    # نوشتن فایل گزارش قدمت لینک‌ها (مرتب شده)
     try:
         with open(STALENESS_REPORT_FILE, 'w', encoding='utf-8') as f_staleness_report:
             f_staleness_report.write("گزارش وضعیت به‌روزرسانی لینک‌ها\n")
             f_staleness_report.write("==============================\n")
             f_staleness_report.write(f"گزارش تولید شده در: {current_run_time_utc.strftime('%Y-%m-%d %H:%M:%S UTC')}\n\n")
-            if not staleness_report_entries:
+            if not staleness_data_for_sorting:
                 f_staleness_report.write("هیچ لینکی برای بررسی وضعیت به‌روزرسانی پردازش نشد.\n")
             else:
-                for url_entry, status_msg_entry in staleness_report_entries:
-                    f_staleness_report.write(f"URL: {url_entry}\n")
-                    f_staleness_report.write(f"وضعیت: {status_msg_entry}\n\n")
-            print(f"فایل گزارش قدمت لینک‌ها ایجاد شد: {STALENESS_REPORT_FILE}")
+                for entry in staleness_data_for_sorting:
+                    f_staleness_report.write(f"URL: {entry['url']}\n")
+                    f_staleness_report.write(f"وضعیت: {entry['message']}\n\n")
+            print(f"فایل گزارش قدمت لینک‌ها (مرتب شده) ایجاد شد: {STALENESS_REPORT_FILE}")
     except Exception as e:
         print(f"خطا در نوشتن فایل گزارش قدمت لینک‌ها ({STALENESS_REPORT_FILE}): {e}")
 
