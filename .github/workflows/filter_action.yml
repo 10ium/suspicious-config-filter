@@ -30,13 +30,13 @@ jobs:
 
     steps:
       - name: Harden Runner (ایمن‌سازی اجراکننده)
-        # استفاده از تگ نسخه پایدار به جای SHA خاص
         uses: step-security/harden-runner@v2.9.0
         with:
-          egress-policy: audit # پس از چند بار اجرا، به 'block' تغییر دهید اگر مشکلی نبود
+          egress-policy: audit
 
       - name: Checkout repository (دریافت کد مخزن)
-        uses: actions/checkout@a5ac7e51b4109f0b924df8db3fd77f308cd9c386 # v4.1.6
+        # اصلاح شده: استفاده از تگ نسخه به جای SHA کامل
+        uses: actions/checkout@v4.1.6
 
       - name: Set up Python (راه‌اندازی پایتون)
         uses: actions/setup-python@82c7e631bb3cdc910f68e0081d67478d79c6982d # v5.1.0
@@ -73,33 +73,28 @@ jobs:
 
       - name: Commit and push report (کامیت و پوش کردن گزارش)
         run: |
-          # تنظیمات Git برای کامیت کردن
-          git config --global user.name "${{ github.actor }}" # استفاده از نام کاربری اجرا کننده اکشن
-          git config --global user.email "${{ github.actor_id}}+${{ github.actor }}@users.noreply.github.com" # ایمیل بر اساس کاربر گیت‌هاب
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor_id}}+${{ github.actor }}@users.noreply.github.com"
 
-          # بررسی اینکه آیا فایل گزارش واقعاً ایجاد شده یا تغییر کرده است
           if [ ! -f "${{ env.REPORT_FILE_TO_USE }}" ]; then
             echo "فایل گزارش ${{ env.REPORT_FILE_TO_USE }} یافت نشد. از کامیت کردن صرف نظر می‌شود."
-            exit 0 # خروج موفقیت‌آمیز، چیزی برای کامیت وجود ندارد
+            exit 0
           fi
           
           git add "${{ env.REPORT_FILE_TO_USE }}"
           
-          # بررسی اینکه آیا تغییری برای کامیت کردن وجود دارد یا خیر
           if git diff --staged --quiet; then
             echo "هیچ تغییری در فایل ${{ env.REPORT_FILE_TO_USE }} برای کامیت کردن وجود ندارد."
-            exit 0 # خروج موفقیت‌آمیز
+            exit 0
           fi
           
-          # دریافت تاریخ فعلی برای پیام کامیت
           CURRENT_DATE=$(date +"%Y-%m-%d %H:%M:%S UTC")
           COMMIT_MESSAGE="به‌روزرسانی گزارش کانفیگ‌های مشکوک - ${CURRENT_DATE} [skip ci]"
 
           git commit -m "$COMMIT_MESSAGE"
           
-          # تعیین شاخه فعلی برای پوش کردن
           CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
           echo "درحال پوش کردن تغییرات به شاخه: $CURRENT_BRANCH"
           git push origin "$CURRENT_BRANCH"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # توکن GITHUB_TOKEN به طور خودکار در دسترس است
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
