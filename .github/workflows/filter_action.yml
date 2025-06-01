@@ -1,0 +1,109 @@
+name: Filter Suspicious Configurations (پالایش کانفیگ‌های مشکوک و کامیت گزارش)
+
+on:
+  workflow_dispatch: # اجازه اجرای دستی از تب Actions
+    inputs:
+      links_file_path:
+        description: 'مسیر فایل حاوی لیست URLها (نسبت به ریشه مخزن)'
+        required: true
+        default: 'links.txt'
+      report_output_name:
+        description: 'نام فایل گزارش خروجی در ریشه مخزن' # توضیحات به‌روز شد
+        required: true
+        default: 'suspicious_configs_report.txt'
+  schedule:
+    - cron: '0 3 * * *' # مثال: هر روز ساعت ۳:۰۰ بامداد به وقت UTC اجرا می‌شود
+
+env:
+  # این ثابت‌ها به اسکریپت پایتون پاس داده می‌شوند
+  MIN_PERCENT25_COUNT: 15
+  MAX_CONFIG_LENGTH: 1500
+  PYTHON_SCRIPT_NAME: 'filter_configs.py' # نام اسکریپت پایتون شما
+
+jobs:
+  filter_and_report:
+    name: Filter and Commit Report (فیلتر و کامیت گزارش)
+    runs-on: ubuntu-latest
+    # دسترسی لازم برای نوشتن در مخزن (کامیت کردن فایل)
+    permissions:
+      contents: write
+
+    steps:
+      - name: Harden Runner (ایمن‌سازی اجراکننده)
+        uses: step-security/harden-runner@0d381219ddf674d61a7572ddd1943a678107595c # v2.9.0
+        with:
+          egress-policy: audit # پس از چند بار اجرا، به 'block' تغییر دهید اگر مشکلی نبود
+
+      - name: Checkout repository (دریافت کد مخزن)
+        uses: actions/checkout@a5ac7e51b4109f0b924df8db3fd77f308cd9c386 # v4.1.6
+        # اگر نیاز به پوش کردن به شاخه‌های محافظت شده دارید، ممکن است به یک PAT نیاز داشته باشید
+        # with:
+        #   token: ${{ secrets.YOUR_PAT_WITH_REPO_SCOPE }} # اگر از PAT استفاده می‌کنید
+
+      - name: Set up Python (راه‌اندازی پایتون)
+        uses: actions/setup-python@82c7e631bb3cdc910f68e0081d67478d79c6982d # v5.1.0
+        with:
+          python-version: '3.10'
+
+      - name: Install Python dependencies (نصب وابستگی‌های پایتون)
+        run: pip install requests
+
+      - name: Determine file paths (تعیین مسیرهای فایل)
+        id: set_paths
+        run: |
+          LINKS_FILE="${{ github.event.inputs.links_file_path || 'links.txt' }}"
+          REPORT_FILE="${{ github.event.inputs.report_output_name || 'suspicious_configs_report.txt' }}"
+          echo "LINKS_FILE_TO_USE=$LINKS_FILE" >> $GITHUB_ENV
+          echo "REPORT_FILE_TO_USE=$REPORT_FILE" >> $GITHUB_ENV
+          echo "استفاده از فایل لینک‌ها: $LINKS_FILE"
+          echo "گزارش در این فایل در ریشه مخزن ایجاد خواهد شد: $REPORT_FILE"
+
+      - name: Check if links file exists (بررسی وجود فایل لینک‌ها)
+        run: |
+          if [ ! -f "${{ env.LINKS_FILE_TO_USE }}" ]; then
+            echo "::error file=${{ env.LINKS_FILE_TO_USE }}::فایل لینک‌ها یافت نشد. لطفاً آن را ایجاد کنید یا مسیر را بررسی نمایید."
+            exit 1
+          fi
+
+      - name: Run configuration filter script (اجرای اسکریپت فیلتر کانفیگ)
+        run: |
+          python ${{ env.PYTHON_SCRIPT_NAME }} "${{ env.LINKS_FILE_TO_USE }}" "${{ env.REPORT_FILE_TO_USE }}"
+          echo "فایل گزارش تولید شد در مسیر: ${{ env.REPORT_FILE_TO_USE }}"
+        env:
+          MIN_PERCENT25_COUNT: ${{ env.MIN_PERCENT25_COUNT }}
+          MAX_CONFIG_LENGTH: ${{ env.MAX_CONFIG_LENGTH }}
+
+      - name: Commit and push report (کامیت و پوش کردن گزارش)
+        run: |
+          # تنظیمات Git برای کامیت کردن
+          git config --global user.name "${{ github.actor }}" # استفاده از نام کاربری اجرا کننده اکشن
+          git config --global user.email "${{ github.actor_id}}+${{ github.actor }}@users.noreply.github.com" # ایمیل بر اساس کاربر گیت‌هاب
+
+          # بررسی اینکه آیا فایل گزارش واقعاً ایجاد شده یا تغییر کرده است
+          if [ ! -f "${{ env.REPORT_FILE_TO_USE }}" ]; then
+            echo "فایل گزارش ${{ env.REPORT_FILE_TO_USE }} یافت نشد. از کامیت کردن صرف نظر می‌شود."
+            exit 0 # خروج موفقیت‌آمیز، چیزی برای کامیت وجود ندارد
+          fi
+          
+          git add "${{ env.REPORT_FILE_TO_USE }}"
+          
+          # بررسی اینکه آیا تغییری برای کامیت کردن وجود دارد یا خیر
+          # اگر فایل گزارش نسبت به نسخه قبلی در مخزن تغییری نکرده باشد، کامیت خالی ایجاد نمی‌شود
+          if git diff --staged --quiet; then
+            echo "هیچ تغییری در فایل ${{ env.REPORT_FILE_TO_USE }} برای کامیت کردن وجود ندارد."
+            exit 0 # خروج موفقیت‌آمیز
+          fi
+          
+          # دریافت تاریخ فعلی برای پیام کامیت
+          CURRENT_DATE=$(date +"%Y-%m-%d %H:%M:%S UTC")
+          COMMIT_MESSAGE="به‌روزرسانی گزارش کانفیگ‌های مشکوک - ${CURRENT_DATE} [skip ci]"
+
+          git commit -m "$COMMIT_MESSAGE"
+          
+          # تعیین شاخه فعلی برای پوش کردن
+          # این دستور شاخه‌ای که اکشن روی آن اجرا شده را برمی‌گرداند
+          CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          echo "درحال پوش کردن تغییرات به شاخه: $CURRENT_BRANCH"
+          git push origin "$CURRENT_BRANCH"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # توکن GITHUB_TOKEN به طور خودکار در دسترس است
