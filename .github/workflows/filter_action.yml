@@ -1,24 +1,27 @@
 name: Filter Suspicious Configurations (پالایش کانفیگ‌های مشکوک و کامیت گزارش)
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # اجازه اجرای دستی از تب Actions
     inputs:
       links_file_path:
         description: 'مسیر فایل حاوی لیست URLها (نسبت به ریشه مخزن)'
         required: true
         default: 'links.txt'
       report_output_name:
-        description: 'نام فایل گزارش اصلی (خلاصه) در ریشه مخزن' # توضیحات به‌روز شد
+        description: 'نام فایل گزارش اصلی (خلاصه کانفیگ‌های مشکوک) در ریشه مخزن'
         required: true
-        default: 'suspicious_configs_report.txt' # این نام فایل گزارش اصلی است
+        default: 'suspicious_configs_report.txt'
+  schedule:
+    # اجرا روزی یک بار ساعت 5 بعد از ظهر به وقت تهران (13:30 UTC)
+    - cron: '30 13 * * *'
 
 env:
   MIN_PERCENT25_COUNT: 15
   MAX_CONFIG_LENGTH: 1500
   PYTHON_SCRIPT_NAME: 'filter_configs.py'
-  # نام پوشه‌ای که اسکریپت پایتون برای فایل‌های جزئیات استفاده می‌کند
   DETAILS_OUTPUT_DIR_NAME: 'suspicious_config_details'
-
+  STALENESS_REPORT_FILENAME: 'link_staleness_report.txt'
+  STATUS_DB_FILENAME: 'link_update_status.json'
 
 jobs:
   filter_and_report:
@@ -37,7 +40,7 @@ jobs:
         uses: actions/checkout@v4.1.6
 
       - name: Set up Python (راه‌اندازی پایتون)
-        uses: actions/setup-python@v5.1.0 # به‌روزرسانی به نسخه جدیدتر setup-python
+        uses: actions/setup-python@v5.1.0
         with:
           python-version: '3.10'
 
@@ -48,15 +51,16 @@ jobs:
         id: set_paths
         run: |
           LINKS_FILE="${{ github.event.inputs.links_file_path || 'links.txt' }}"
-          # نام فایل گزارش اصلی از ورودی‌ها یا پیش‌فرض گرفته می‌شود
-          MAIN_REPORT_FILE="${{ github.event.inputs.report_output_name || 'suspicious_configs_report.txt' }}"
+          MAIN_SUMMARY_REPORT_FILE="${{ github.event.inputs.report_output_name || 'suspicious_configs_report.txt' }}"
           
           echo "LINKS_FILE_TO_USE=$LINKS_FILE" >> $GITHUB_ENV
-          echo "MAIN_REPORT_FILE_TO_USE=$MAIN_REPORT_FILE" >> $GITHUB_ENV # نام فایل گزارش اصلی
+          echo "MAIN_SUMMARY_REPORT_FILE_TO_USE=$MAIN_SUMMARY_REPORT_FILE" >> $GITHUB_ENV
           
           echo "استفاده از فایل لینک‌ها: $LINKS_FILE"
-          echo "گزارش اصلی در این فایل در ریشه مخزن ایجاد خواهد شد: $MAIN_REPORT_FILE"
-          echo "فایل‌های جزئیات در پوشه ${{ env.DETAILS_OUTPUT_DIR_NAME }}/ ایجاد خواهند شد"
+          echo "گزارش خلاصه کانفیگ‌های مشکوک در: $MAIN_SUMMARY_REPORT_FILE"
+          echo "گزارش قدمت لینک‌ها در: ${{ env.STALENESS_REPORT_FILENAME }}"
+          echo "پایگاه داده وضعیت لینک‌ها در: ${{ env.STATUS_DB_FILENAME }}"
+          echo "فایل‌های جزئیات در پوشه ${{ env.DETAILS_OUTPUT_DIR_NAME }}/"
 
       - name: Check if links file exists (بررسی وجود فایل لینک‌ها)
         run: |
@@ -67,49 +71,39 @@ jobs:
 
       - name: Run configuration filter script (اجرای اسکریپت فیلتر کانفیگ)
         run: |
-          # اسکریپت پایتون فایل گزارش اصلی و پوشه جزئیات را ایجاد می‌کند
-          python ${{ env.PYTHON_SCRIPT_NAME }} "${{ env.LINKS_FILE_TO_USE }}" "${{ env.MAIN_REPORT_FILE_TO_USE }}"
+          python ${{ env.PYTHON_SCRIPT_NAME }} "${{ env.LINKS_FILE_TO_USE }}" "${{ env.MAIN_SUMMARY_REPORT_FILE_TO_USE }}"
           echo "اسکریپت فیلتر اجرا شد."
-          echo "فایل گزارش اصلی باید در مسیر: ${{ env.MAIN_REPORT_FILE_TO_USE }} باشد."
-          echo "پوشه جزئیات باید در مسیر: ./${{ env.DETAILS_OUTPUT_DIR_NAME }}/ باشد."
         env:
           MIN_PERCENT25_COUNT: ${{ env.MIN_PERCENT25_COUNT }}
           MAX_CONFIG_LENGTH: ${{ env.MAX_CONFIG_LENGTH }}
-          # PYTHONIOENCODING: 'UTF-8' # برای اطمینان از خروجی صحیح فارسی در لاگ‌ها (اختیاری)
-
 
       - name: Commit and push report files (کامیت و پوش کردن فایل‌های گزارش)
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor_id}}+${{ github.actor }}@users.noreply.github.com"
 
-          MAIN_REPORT_PATH="${{ env.MAIN_REPORT_FILE_TO_USE }}"
-          DETAILS_DIR_PATH="./${{ env.DETAILS_OUTPUT_DIR_NAME }}" # مسیر پوشه جزئیات
+          MAIN_SUMMARY_REPORT_PATH="${{ env.MAIN_SUMMARY_REPORT_FILE_TO_USE }}"
+          DETAILS_DIR_PATH="./${{ env.DETAILS_OUTPUT_DIR_NAME }}"
+          STALENESS_REPORT_PATH="./${{ env.STALENESS_REPORT_FILENAME }}"
+          STATUS_DB_PATH="./${{ env.STATUS_DB_FILENAME }}"
 
-          # اضافه کردن فایل گزارش اصلی
-          git add "$MAIN_REPORT_PATH"
+          if [ -f "$MAIN_SUMMARY_REPORT_PATH" ]; then git add "$MAIN_SUMMARY_REPORT_PATH"; fi
+          if [ -f "$STALENESS_REPORT_PATH" ]; then git add "$STALENESS_REPORT_PATH"; fi
+          if [ -f "$STATUS_DB_PATH" ]; then git add "$STATUS_DB_PATH"; fi
           
-          # اضافه کردن پوشه جزئیات اگر وجود دارد و حاوی فایل است
           if [ -d "$DETAILS_DIR_PATH" ]; then
-            # بررسی اینکه آیا پوشه خالی است یا خیر
             if [ -n "$(ls -A $DETAILS_DIR_PATH)" ]; then
               git add "$DETAILS_DIR_PATH"
-              echo "پوشه $DETAILS_DIR_PATH به تغییرات اضافه شد."
-            else
-              echo "پوشه $DETAILS_DIR_PATH خالی است، اضافه نمی‌شود."
             fi
-          else
-            echo "پوشه $DETAILS_DIR_PATH یافت نشد."
           fi
           
-          # بررسی اینکه آیا تغییری برای کامیت کردن وجود دارد یا خیر
           if git diff --staged --quiet; then
             echo "هیچ تغییری در فایل‌های گزارش برای کامیت کردن وجود ندارد."
             exit 0 
           fi
           
-          CURRENT_DATE=$(date +"%Y-%m-%d %H:%M:%S UTC")
-          COMMIT_MESSAGE="به‌روزرسانی گزارش کانفیگ‌های مشکوک و جزئیات - ${CURRENT_DATE} [skip ci]"
+          CURRENT_DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC") # تاریخ و زمان به وقت UTC
+          COMMIT_MESSAGE="به‌روزرسانی گزارش‌ها (مشکوک، قدمت، وضعیت) - ${CURRENT_DATE} [skip ci]"
 
           git commit -m "$COMMIT_MESSAGE"
           
