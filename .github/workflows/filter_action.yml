@@ -1,30 +1,31 @@
 name: Filter Suspicious Configurations (پالایش کانفیگ‌های مشکوک و کامیت گزارش)
 
 on:
-  workflow_dispatch: # اجازه اجرای دستی از تب Actions
+  workflow_dispatch:
     inputs:
       links_file_path:
         description: 'مسیر فایل حاوی لیست URLها (نسبت به ریشه مخزن)'
         required: true
         default: 'links.txt'
       report_output_name:
-        description: 'نام فایل گزارش خروجی در ریشه مخزن'
+        description: 'نام فایل گزارش اصلی (خلاصه) در ریشه مخزن' # توضیحات به‌روز شد
         required: true
-        default: 'suspicious_configs_report.txt'
+        default: 'suspicious_configs_report.txt' # این نام فایل گزارش اصلی است
   schedule:
-    - cron: '0 3 * * *' # مثال: هر روز ساعت ۳:۰۰ بامداد به وقت UTC اجرا می‌شود
+    - cron: '0 3 * * *'
 
 env:
-  # این ثابت‌ها به اسکریپت پایتون پاس داده می‌شوند
   MIN_PERCENT25_COUNT: 15
   MAX_CONFIG_LENGTH: 1500
-  PYTHON_SCRIPT_NAME: 'filter_configs.py' # نام اسکریپت پایتون شما
+  PYTHON_SCRIPT_NAME: 'filter_configs.py'
+  # نام پوشه‌ای که اسکریپت پایتون برای فایل‌های جزئیات استفاده می‌کند
+  DETAILS_OUTPUT_DIR_NAME: 'suspicious_config_details'
+
 
 jobs:
   filter_and_report:
     name: Filter and Commit Report (فیلتر و کامیت گزارش)
     runs-on: ubuntu-latest
-    # دسترسی لازم برای نوشتن در مخزن (کامیت کردن فایل)
     permissions:
       contents: write
 
@@ -35,11 +36,10 @@ jobs:
           egress-policy: audit
 
       - name: Checkout repository (دریافت کد مخزن)
-        # اصلاح شده: استفاده از تگ نسخه به جای SHA کامل
         uses: actions/checkout@v4.1.6
 
       - name: Set up Python (راه‌اندازی پایتون)
-        uses: actions/setup-python@82c7e631bb3cdc910f68e0081d67478d79c6982d # v5.1.0
+        uses: actions/setup-python@v5.1.0 # به‌روزرسانی به نسخه جدیدتر setup-python
         with:
           python-version: '3.10'
 
@@ -50,46 +50,68 @@ jobs:
         id: set_paths
         run: |
           LINKS_FILE="${{ github.event.inputs.links_file_path || 'links.txt' }}"
-          REPORT_FILE="${{ github.event.inputs.report_output_name || 'suspicious_configs_report.txt' }}"
+          # نام فایل گزارش اصلی از ورودی‌ها یا پیش‌فرض گرفته می‌شود
+          MAIN_REPORT_FILE="${{ github.event.inputs.report_output_name || 'suspicious_configs_report.txt' }}"
+          
           echo "LINKS_FILE_TO_USE=$LINKS_FILE" >> $GITHUB_ENV
-          echo "REPORT_FILE_TO_USE=$REPORT_FILE" >> $GITHUB_ENV
+          echo "MAIN_REPORT_FILE_TO_USE=$MAIN_REPORT_FILE" >> $GITHUB_ENV # نام فایل گزارش اصلی
+          
           echo "استفاده از فایل لینک‌ها: $LINKS_FILE"
-          echo "گزارش در این فایل در ریشه مخزن ایجاد خواهد شد: $REPORT_FILE"
+          echo "گزارش اصلی در این فایل در ریشه مخزن ایجاد خواهد شد: $MAIN_REPORT_FILE"
+          echo "فایل‌های جزئیات در پوشه ${{ env.DETAILS_OUTPUT_DIR_NAME }}/ ایجاد خواهند شد"
 
       - name: Check if links file exists (بررسی وجود فایل لینک‌ها)
         run: |
           if [ ! -f "${{ env.LINKS_FILE_TO_USE }}" ]; then
-            echo "::error file=${{ env.LINKS_FILE_TO_USE }}::فایل لینک‌ها یافت نشد. لطفاً آن را ایجاد کنید یا مسیر را بررسی نمایید."
+            echo "::error file=${{ env.LINKS_FILE_TO_USE }}::فایل لینک‌ها یافت نشد."
             exit 1
           fi
 
       - name: Run configuration filter script (اجرای اسکریپت فیلتر کانفیگ)
         run: |
-          python ${{ env.PYTHON_SCRIPT_NAME }} "${{ env.LINKS_FILE_TO_USE }}" "${{ env.REPORT_FILE_TO_USE }}"
-          echo "فایل گزارش تولید شد در مسیر: ${{ env.REPORT_FILE_TO_USE }}"
+          # اسکریپت پایتون فایل گزارش اصلی و پوشه جزئیات را ایجاد می‌کند
+          python ${{ env.PYTHON_SCRIPT_NAME }} "${{ env.LINKS_FILE_TO_USE }}" "${{ env.MAIN_REPORT_FILE_TO_USE }}"
+          echo "اسکریپت فیلتر اجرا شد."
+          echo "فایل گزارش اصلی باید در مسیر: ${{ env.MAIN_REPORT_FILE_TO_USE }} باشد."
+          echo "پوشه جزئیات باید در مسیر: ./${{ env.DETAILS_OUTPUT_DIR_NAME }}/ باشد."
         env:
           MIN_PERCENT25_COUNT: ${{ env.MIN_PERCENT25_COUNT }}
           MAX_CONFIG_LENGTH: ${{ env.MAX_CONFIG_LENGTH }}
+          # PYTHONIOENCODING: 'UTF-8' # برای اطمینان از خروجی صحیح فارسی در لاگ‌ها (اختیاری)
 
-      - name: Commit and push report (کامیت و پوش کردن گزارش)
+
+      - name: Commit and push report files (کامیت و پوش کردن فایل‌های گزارش)
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor_id}}+${{ github.actor }}@users.noreply.github.com"
 
-          if [ ! -f "${{ env.REPORT_FILE_TO_USE }}" ]; then
-            echo "فایل گزارش ${{ env.REPORT_FILE_TO_USE }} یافت نشد. از کامیت کردن صرف نظر می‌شود."
-            exit 0
+          MAIN_REPORT_PATH="${{ env.MAIN_REPORT_FILE_TO_USE }}"
+          DETAILS_DIR_PATH="./${{ env.DETAILS_OUTPUT_DIR_NAME }}" # مسیر پوشه جزئیات
+
+          # اضافه کردن فایل گزارش اصلی
+          git add "$MAIN_REPORT_PATH"
+          
+          # اضافه کردن پوشه جزئیات اگر وجود دارد و حاوی فایل است
+          if [ -d "$DETAILS_DIR_PATH" ]; then
+            # بررسی اینکه آیا پوشه خالی است یا خیر
+            if [ -n "$(ls -A $DETAILS_DIR_PATH)" ]; then
+              git add "$DETAILS_DIR_PATH"
+              echo "پوشه $DETAILS_DIR_PATH به تغییرات اضافه شد."
+            else
+              echo "پوشه $DETAILS_DIR_PATH خالی است، اضافه نمی‌شود."
+            fi
+          else
+            echo "پوشه $DETAILS_DIR_PATH یافت نشد."
           fi
           
-          git add "${{ env.REPORT_FILE_TO_USE }}"
-          
+          # بررسی اینکه آیا تغییری برای کامیت کردن وجود دارد یا خیر
           if git diff --staged --quiet; then
-            echo "هیچ تغییری در فایل ${{ env.REPORT_FILE_TO_USE }} برای کامیت کردن وجود ندارد."
-            exit 0
+            echo "هیچ تغییری در فایل‌های گزارش برای کامیت کردن وجود ندارد."
+            exit 0 
           fi
           
           CURRENT_DATE=$(date +"%Y-%m-%d %H:%M:%S UTC")
-          COMMIT_MESSAGE="به‌روزرسانی گزارش کانفیگ‌های مشکوک - ${CURRENT_DATE} [skip ci]"
+          COMMIT_MESSAGE="به‌روزرسانی گزارش کانفیگ‌های مشکوک و جزئیات - ${CURRENT_DATE} [skip ci]"
 
           git commit -m "$COMMIT_MESSAGE"
           
