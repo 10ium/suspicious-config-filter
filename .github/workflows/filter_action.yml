@@ -11,8 +11,6 @@ on:
         description: 'نام فایل گزارش اصلی (خلاصه) در ریشه مخزن' # توضیحات به‌روز شد
         required: true
         default: 'suspicious_configs_report.txt' # این نام فایل گزارش اصلی است
-  schedule:
-    - cron: '0 3 * * *'
 
 env:
   MIN_PERCENT25_COUNT: 15
