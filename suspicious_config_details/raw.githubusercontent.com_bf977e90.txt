@@ -1,0 +1,14 @@
+جزئیات کانفیگ‌های مشکوک برای URL:
+https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/US.txt
+======================================================================
+
+کانفیگ:
+vless://I_Love_🇵🇸_sshOcean_0156@151.101.64.155:80?path=/vless?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=soso.mashti.com&type=ws#🇺🇸US_852_@Surfboardv2ray
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_🇵🇸_sshOcean_0156@151.101.64.155:80?path=/vless?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=sosoa.mashti.com&type=ws#🇺🇸US_853_@Surfboardv2ray
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+----------------------------------------
