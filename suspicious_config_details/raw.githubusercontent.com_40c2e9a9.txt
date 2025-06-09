@@ -3,12 +3,22 @@ https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
 ======================================================================
 
 کانفیگ:
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@www.speedtest.net:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.spewdtest.net.clodb.com.argonet.online.&type=ws#RELAY🚩 | www.spewdtest.net.clodb.com.argonet.online.-80 | 103.35ms
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@www.speedtest.net:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.spewdtest.net.clodb.com.argonet.online.&type=ws#RELAY🚩 | www.spewdtest.net.clodb.com.argonet.online.-80 | 118.64ms
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
 ----------------------------------------
 کانفیگ:
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@151.101.64.155:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=sosoa.mashti.com&type=ws#US🇺🇸 | sosoa.mashti.com-80 | 154.64ms
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@151.101.64.155:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=sosob.mashti.com&type=ws#US🇺🇸 | sosob.mashti.com-80 | 119.54ms
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@151.101.64.155:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=sosoa.mashti.com&type=ws#US🇺🇸 | sosoa.mashti.com-80 | 128.53ms
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@151.101.64.155:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=soso.mashti.com&type=ws#US🇺🇸 | soso.mashti.com-80 | 126.67ms
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
 ----------------------------------------
