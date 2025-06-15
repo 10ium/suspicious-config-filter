@@ -3,17 +3,17 @@ https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
 ======================================================================
 
 کانفیگ:
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_5068@104.16.2.226:443?type=ws&encryption=none&flow=&host=uk.v2vless.site&path=%2Fvless&security=tls&sni=uk.v2vless.site&alpn=http%2F1.1&fp=firefox#RU🇷🇺 | uk.v2vless.site-443 | 244.79ms
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@www.speedtest.net:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.spewdtest.net.clodb.com.argonet.online.&type=ws#RELAY🚩 | www.spewdtest.net.clodb.com.argonet.online.-80 | 22.2ms
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
 ----------------------------------------
 کانفیگ:
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@www.speedtest.net:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.spewdtest.net.clodb.com.argonet.online.&type=ws#RELAY🚩 | www.spewdtest.net.clodb.com.argonet.online.-80 | 59.31ms
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@151.101.64.155:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=sosob.mashti.com&type=ws#US🇺🇸 | sosob.mashti.com-80 | 151.73ms
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
 ----------------------------------------
 کانفیگ:
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@151.101.64.155:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=sosob.mashti.com&type=ws#US🇺🇸 | sosob.mashti.com-80 | 240.02ms
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@151.101.64.155:80?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=sosoa.mashti.com&type=ws#US🇺🇸 | sosoa.mashti.com-80 | 249.17ms
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
 ----------------------------------------
