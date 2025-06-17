@@ -1,5 +1,5 @@
 جزئیات کانفیگ‌های مشکوک برای URL:
-https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
+https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/IR.txt
 ======================================================================
 
 کانفیگ:
