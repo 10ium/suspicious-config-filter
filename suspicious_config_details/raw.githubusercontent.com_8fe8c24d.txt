@@ -3,37 +3,27 @@ https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/c
 ======================================================================
 
 کانفیگ:
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_1b24@185.143.233.120:80?path=%2Fvless&security=none&encryption=none&host=sub.speedtestnet.ir&type=ws#🌐سرور 85 | Kho-27| MTSRVRS
-دلایل:
-  - حاوی کلمه کلیدی 'i_love_' است
-----------------------------------------
-کانفیگ:
-vless://d78628e8-5b51-4452-b3ce-79f3249b5755@www.speedtest.net:80?path=%2F%2554%2565l%2565g%2572%2561m-%2569p%25562Ry-%2554%2565l%2565g%2572%2561m-%2569p%25562Ry-%2554%2565l%2565g%2572%2561m-%2569p%25562Ry%3Fed%3D2048%23%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&security=none&encryption=none&host=www.speedtest.net.1.developsp.ir.gebados.ir.&type=ws#🌐سرور 295 | Kho-27| MTSRVRS
-دلایل:
-  - تعداد '%25' (21) برابر یا بیشتر از 15 است
-----------------------------------------
-کانفیگ:
-vless://10cd388f-4bf7-4ded-e783-46955d21e5ae@151.101.64.155:80?path=%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%3Fed%3D2048%23%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&security=none&encryption=none&host=KEISJWJ.COM&type=ws#🌐سرور 298 | Kho-27| MTSRVRS
-دلایل:
-  - تعداد '%25' (16) برابر یا بیشتر از 15 است
-----------------------------------------
-کانفیگ:
-vless://68bfb9c%61-34%657-4f20-833c-8fbd742d46fd@151.101.194.165:80?path=%2F%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%2F%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%2F%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG-%54%65l%65g%72%61m-H%71%562%72%61yNG%3Fed%3D2048&security=none&encryption=none&host=GGZ.MIL.&type=ws#🌐سرور 956 | Kho-27| MTSRVRS
-دلایل:
-  - طول (1502) برابر یا بیشتر از 1500 است
-----------------------------------------
-کانفیگ:
-vless://956ca0da-ef6c-4b0d-9977-68879e6855ca@151.101.64.155:80?path=%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%3Fed%3D2048%23%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&security=none&encryption=none&host=Bpalanenok.org&type=ws#🌐سرور 1132 | Kho-27| MTSRVRS
-دلایل:
-  - تعداد '%25' (16) برابر یا بیشتر از 15 است
-----------------------------------------
-کانفیگ:
-vless://fd94110c-e1cd-4f97-85e7-663807dcf761@www.speedtest.net:80?path=%2FMos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762%3Fed%3D2560%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&security=none&encryption=none&host=pamchall.com.&type=ws#🌐سرور 1211 | Kho-27| MTSRVRS
+vless://fd94110c-e1cd-4f97-85e7-663807dcf761@www.speedtest.net:80?path=%2FMos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762--Mos%2569%25762---Mos%2569%25762%3Fed%3D2560%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&security=none&encryption=none&host=pamchall.com.&type=ws#🌐سرور 514 | Kho-28| MTSRVRS
 دلایل:
   - تعداد '%25' (28) برابر یا بیشتر از 15 است
 ----------------------------------------
 کانفیگ:
-vless://bd8cca3e-9c3c-40c0-d5a9-e7ee0c0d9114@151.101.64.155:80?path=%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%3Fed%3D2048%23%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&security=none&encryption=none&host=KEISJWJ.COM&type=ws#🌐سرور 1393 | Kho-27| MTSRVRS
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_1b24@185.143.233.120:80?path=%2Fvless&security=none&encryption=none&host=sub.speedtestnet.ir&type=ws#🌐سرور 556 | Kho-28| MTSRVRS
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+----------------------------------------
+کانفیگ:
+vless://10cd388f-4bf7-4ded-e783-46955d21e5ae@151.101.64.155:80?path=%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%3Fed%3D2048%23%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&security=none&encryption=none&host=KEISJWJ.COM&type=ws#🌐سرور 621 | Kho-28| MTSRVRS
+دلایل:
+  - تعداد '%25' (16) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://d78628e8-5b51-4452-b3ce-79f3249b5755@www.speedtest.net:80?path=%2F%2554%2565l%2565g%2572%2561m-%2569p%25562Ry-%2554%2565l%2565g%2572%2561m-%2569p%25562Ry-%2554%2565l%2565g%2572%2561m-%2569p%25562Ry%3Fed%3D2048%23%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&security=none&encryption=none&host=www.speedtest.net.1.developsp.ir.gebados.ir.&type=ws#🌐سرور 984 | Kho-28| MTSRVRS
+دلایل:
+  - تعداد '%25' (21) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://bd8cca3e-9c3c-40c0-d5a9-e7ee0c0d9114@151.101.64.155:80?path=%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%2F%40%2558pnTeam%3Fed%3D2048%23%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&security=none&encryption=none&host=KEISJWJ.COM&type=ws#🌐سرور 1036 | Kho-28| MTSRVRS
 دلایل:
   - تعداد '%25' (16) برابر یا بیشتر از 15 است
 ----------------------------------------
