@@ -1,0 +1,9 @@
+جزئیات کانفیگ‌های مشکوک برای URL:
+https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/mahsa.txt
+======================================================================
+
+کانفیگ:
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@talkntechltd.uk:2087?host=invincible.fafa20.shop&type=ws&security=tls&path=%2FtrCilgA8ns36QnE04E%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&sni=iNVInCIBLE.FAFA20.Shop&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%2525252048%25252520-%25252520Trojan%25252520-%25252520Clean%25252520IP%25252520:%252525202087
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
