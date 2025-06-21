@@ -1,0 +1,19 @@
+جزئیات کانفیگ‌های مشکوک برای URL:
+https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+======================================================================
+
+کانفیگ:
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2Frkluheauth5uvnsb%2Fntqumty5ljiyos4xodg%3D%3Fed%3D2560&security=tls&encryption=none&host=hOZori.iR&type=ws&sni=hOZori.iR#%2540VMESSIR4N%2520%25D8%25AC%25D9%2587%25D8%25AA%2520%25D8%25AE%25D8%25B1%25DB%258C%25D8%25AF%2520%25DA%25A9%25D8%25A7%25D9%2586%25D9%2581%25DB%258C%25DA%25AF
+دلایل:
+  - تعداد '%25' (30) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@www.speedtest.net:443?host=invincible.fafa20.shop&type=ws&security=tls&path=%2FtrhRl2EYQKIyl0TZ2d%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&sni=InViNCible.FAFa20.sHop&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%252525202%25252520-%25252520Trojan%25252520-%25252520Domain%25252520:%25252520443
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@www.speedtest.net:8443?host=invincible.fafa20.shop&type=ws&security=tls&path=%2Ftrwidp0ENHXMUNX4bA%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&sni=inVinciBLe.fafa20.sHop&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%2525252012%25252520-%25252520Trojan%25252520-%25252520Domain%25252520:%252525208443
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
