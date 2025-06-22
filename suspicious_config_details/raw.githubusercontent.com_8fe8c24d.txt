@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/c
 ======================================================================
 
 کانفیگ:
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_1b24@185.143.233.120:80?path=%2Fvless&security=none&encryption=none&host=sub.speedtestnet.ir&type=ws#🌐سرور 841 | Kho-31| MTSRVRS
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_1b24@185.143.233.120:80?path=%2Fvless&security=none&encryption=none&host=sub.speedtestnet.ir&type=ws#🌐سرور 165 | Tir-01| MTSRVRS
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
 ----------------------------------------

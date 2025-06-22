@@ -3,11 +3,6 @@ https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/ma
 ======================================================================
 
 کانفیگ:
-vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2Frkluheauth5uvnsb%2Fntqumty5ljiyos4xodg%3D%3Fed%3D2560&security=tls&encryption=none&host=hOZori.iR&type=ws&sni=hOZori.iR#%2540VMESSIR4N%2520%25D8%25AC%25D9%2587%25D8%25AA%2520%25D8%25AE%25D8%25B1%25DB%258C%25D8%25AF%2520%25DA%25A9%25D8%25A7%25D9%2586%25D9%2581%25DB%258C%25DA%25AF
-دلایل:
-  - تعداد '%25' (30) برابر یا بیشتر از 15 است
-----------------------------------------
-کانفیگ:
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@www.speedtest.net:443?host=invincible.fafa20.shop&type=ws&security=tls&path=%2FtrhRl2EYQKIyl0TZ2d%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&sni=InViNCible.FAFa20.sHop&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%252525202%25252520-%25252520Trojan%25252520-%25252520Domain%25252520:%25252520443
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
@@ -16,4 +11,19 @@ trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@www.speedtest.net:443?host=invinci
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@www.speedtest.net:8443?host=invincible.fafa20.shop&type=ws&security=tls&path=%2Ftrwidp0ENHXMUNX4bA%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&sni=inVinciBLe.fafa20.sHop&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%2525252012%25252520-%25252520Trojan%25252520-%25252520Domain%25252520:%252525208443
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://17602cf7-97d5-4881-8e4f-2fdaa9f49d3f@23.90.188.66:41959?security=reality&sni=canva.com&type=tcp&fp=chrome&pbk=xIndzDWBc0JR0MiuEQp-3Hxl6y3d7vEy4HCjnRcXIFc&sid=a932#%25F0%259F%2594%2592%2520VL-TCP-RLT%2520%25F0%259F%2587%25AA%25F0%259F%2587%25B8%2520ES-23.90.188.66:41959
+دلایل:
+  - تعداد '%25' (15) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://22f493aa-cab4-4040-bef1-c3a5d4418b3b@185.39.204.29:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#%25F0%259F%2594%2592%2520VL-TCP-RLT%2520%25F0%259F%2587%25B9%25F0%259F%2587%25B7%2520TR-185.39.204.29:443
+دلایل:
+  - تعداد '%25' (15) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+ss://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_1b24@185.143.233.120:80?path=%2Fvless&security=none&encryption=none&host=sub.speedtestnet.ir&type=ws#@VIProxys
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
 ----------------------------------------
