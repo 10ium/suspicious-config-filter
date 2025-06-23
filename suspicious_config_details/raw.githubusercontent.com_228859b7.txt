@@ -22,8 +22,3 @@ vless://22f493aa-cab4-4040-bef1-c3a5d4418b3b@185.39.204.29:443?security=reality&
 دلایل:
   - تعداد '%25' (15) برابر یا بیشتر از 15 است
 ----------------------------------------
-کانفیگ:
-ss://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_1b24@185.143.233.120:80?path=%2Fvless&security=none&encryption=none&host=sub.speedtestnet.ir&type=ws#@VIProxys
-دلایل:
-  - حاوی کلمه کلیدی 'i_love_' است
-----------------------------------------

@@ -3,12 +3,7 @@ https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/mas
 ======================================================================
 
 کانفیگ:
-vless://I_Love_🇵🇸_sshOcean_1b24@185.143.233.120:80?path=/vless&security=none&encryption=none&host=sub.speedtestnet.ir&type=ws#🇮🇷IR_645_@Surfboardv2ray
-دلایل:
-  - حاوی کلمه کلیدی 'i_love_' است
-----------------------------------------
-کانفیگ:
-vless://I_Love_🇵🇸_sshOcean_1b24@185.143.233.120:80?path=/vless&security=none&encryption=none&host=sub.speedtestnet.ir&type=ws#🇮🇷IR_646_@Surfboardv2ray
+vless://I_Love_🇵🇸_sshOcean_1b24@185.143.233.120:80?path=/vless&security=none&encryption=none&host=sub.speedtestnet.ir&type=ws#🇮🇷IR_977_@Surfboardv2ray
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
 ----------------------------------------
