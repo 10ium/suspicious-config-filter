@@ -1,0 +1,9 @@
+جزئیات کانفیگ‌های مشکوک برای URL:
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan
+======================================================================
+
+کانفیگ:
+trojan://Vad3.123a%252529asd1234-asdasd.asdazzS.123@43.154.83.213:443?sni=xx.tc.hk.go.107421.xyz&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-43.154.83.213:443
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
