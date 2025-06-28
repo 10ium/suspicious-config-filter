@@ -3,6 +3,11 @@ https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/cu
 ======================================================================
 
 کانفیگ:
+vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.95.229:2053?encryption=none&host=invincible.fafa20.shop&type=ws&security=tls&path=%2FHgdRelVcve9Ra99p%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&sni=iNVincibLe.FafA20.shOp&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%2525252023%25252520-%25252520VLESS%25252520-%25252520IPv4%25252520:%252525202053
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2087?host=invincible.fafa20.shop&type=ws&security=tls&path=%2FtrSC827RVJ8e9FFsFa%2FMTI5LjE1OS44NC43MQ%3D%3D%3Fed%3D2560&sni=invInCibLE.FAFA20.ShOp&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%2525252043%25252520-%25252520Trojan%25252520-%25252520IPv4%25252520:%252525202087
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است

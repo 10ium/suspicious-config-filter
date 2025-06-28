@@ -1,0 +1,9 @@
+جزئیات کانفیگ‌های مشکوک برای URL:
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless
+======================================================================
+
+کانفیگ:
+vless://ae8b8b05-aa21-4b3a-a270-308b0e5b5063@151.101.130.219:80?type=ws&host=V5B28L9.com&path=%2FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%252FTelegram%252C%2540Archive_Android%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-151.101.130.219:80
+دلایل:
+  - تعداد '%25' (62) برابر یا بیشتر از 15 است
+----------------------------------------
