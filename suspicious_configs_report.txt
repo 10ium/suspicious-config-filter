@@ -2,7 +2,7 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 43
+  تعداد کانفیگ‌های مشکوک: 62
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality
@@ -10,7 +10,7 @@ URL: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_b62415a1.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt
-  تعداد کانفیگ‌های مشکوک: 2
+  تعداد کانفیگ‌های مشکوک: 1
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9edb0d67.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
@@ -38,7 +38,7 @@ URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_7a8406f7.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/mahsa.txt
-  تعداد کانفیگ‌های مشکوک: 3
+  تعداد کانفیگ‌های مشکوک: 2
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_8651c5c1.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt

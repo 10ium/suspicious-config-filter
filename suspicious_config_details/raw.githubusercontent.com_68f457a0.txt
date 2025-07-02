@@ -3,229 +3,329 @@ https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/v
 ======================================================================
 
 کانفیگ:
-vless://I_Love_%25F0%259F%2587%25B5%25F0%259F%2587%25B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701181806
+vless://I_Love_%25F0%259F%2587%25B5%25F0%259F%2587%25B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702181808
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
 ----------------------------------------
 کانفیگ:
-vless://I_Love_%2525F0%25259F%252587%2525B5%2525F0%25259F%252587%2525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701183574
-دلایل:
-  - حاوی کلمه کلیدی 'i_love_' است
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%252561291d1-b8f8-4967-93%2525616-4ff%25256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701183575
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%252561291d1-b8f8-4967-93%2525616-4ff%25256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701183576
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://I_Love_%252525F0%2525259F%25252587%252525B5%252525F0%2525259F%25252587%252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701183633
+vless://I_Love_%2525F0%25259F%252587%2525B5%2525F0%25259F%252587%2525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702183505
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%25252561291d1-b8f8-4967-93%252525616-4ff%2525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701183634
+vless://dd%252561291d1-b8f8-4967-93%2525616-4ff%25256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702183506
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%25252561291d1-b8f8-4967-93%252525616-4ff%2525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701183635
+vless://dd%252561291d1-b8f8-4967-93%2525616-4ff%25256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702183507
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://I_Love_%25252525F0%252525259F%2525252587%25252525B5%25252525F0%252525259F%2525252587%25252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701183730
-دلایل:
-  - حاوی کلمه کلیدی 'i_love_' است
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%2525252561291d1-b8f8-4967-93%25252525616-4ff%252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701183731
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%2525252561291d1-b8f8-4967-93%25252525616-4ff%252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701183732
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://I_Love_%2525252525F0%25252525259F%252525252587%2525252525B5%2525252525F0%25252525259F%252525252587%2525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701183824
+vless://I_Love_%252525F0%2525259F%25252587%252525B5%252525F0%2525259F%25252587%252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702183612
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%252525252561291d1-b8f8-4967-93%2525252525616-4ff%25252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701183825
+vless://dd%25252561291d1-b8f8-4967-93%252525616-4ff%2525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702183613
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%252525252561291d1-b8f8-4967-93%2525252525616-4ff%25252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701183826
+vless://dd%25252561291d1-b8f8-4967-93%252525616-4ff%2525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702183614
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://I_Love_%252525252525F0%2525252525259F%25252525252587%252525252525B5%252525252525F0%2525252525259F%25252525252587%252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701183922
-دلایل:
-  - حاوی کلمه کلیدی 'i_love_' است
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%25252525252561291d1-b8f8-4967-93%252525252525616-4ff%2525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701183923
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%25252525252561291d1-b8f8-4967-93%252525252525616-4ff%2525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701183924
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://I_Love_%25252525252525F0%252525252525259F%2525252525252587%25252525252525B5%25252525252525F0%252525252525259F%2525252525252587%25252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701183995
+vless://I_Love_%25252525F0%252525259F%2525252587%25252525B5%25252525F0%252525259F%2525252587%25252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702183662
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%2525252525252561291d1-b8f8-4967-93%25252525252525616-4ff%252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701183996
+vless://dd%2525252561291d1-b8f8-4967-93%25252525616-4ff%252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702183663
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%2525252525252561291d1-b8f8-4967-93%25252525252525616-4ff%252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701183997
+vless://dd%2525252561291d1-b8f8-4967-93%25252525616-4ff%252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702183664
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://I_Love_%2525252525252525F0%25252525252525259F%252525252525252587%2525252525252525B5%2525252525252525F0%25252525252525259F%252525252525252587%2525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701184069
-دلایل:
-  - حاوی کلمه کلیدی 'i_love_' است
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%252525252525252561291d1-b8f8-4967-93%2525252525252525616-4ff%25252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701184070
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%252525252525252561291d1-b8f8-4967-93%2525252525252525616-4ff%25252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701184071
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://I_Love_%252525252525252525F0%2525252525252525259F%25252525252525252587%252525252525252525B5%252525252525252525F0%2525252525252525259F%25252525252525252587%252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701184141
+vless://I_Love_%2525252525F0%25252525259F%252525252587%2525252525B5%2525252525F0%25252525259F%252525252587%2525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702183736
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%25252525252525252561291d1-b8f8-4967-93%252525252525252525616-4ff%2525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701184142
+vless://dd%252525252561291d1-b8f8-4967-93%2525252525616-4ff%25252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702183739
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%25252525252525252561291d1-b8f8-4967-93%252525252525252525616-4ff%2525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701184143
+vless://dd%252525252561291d1-b8f8-4967-93%2525252525616-4ff%25252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702183740
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://I_Love_%25252525252525252525F0%252525252525252525259F%2525252525252525252587%25252525252525252525B5%25252525252525252525F0%252525252525252525259F%2525252525252525252587%25252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701184223
-دلایل:
-  - حاوی کلمه کلیدی 'i_love_' است
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%2525252525252525252561291d1-b8f8-4967-93%25252525252525252525616-4ff%252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701184224
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%2525252525252525252561291d1-b8f8-4967-93%25252525252525252525616-4ff%252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701184225
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://I_Love_%2525252525252525252525F0%25252525252525252525259F%252525252525252525252587%2525252525252525252525B5%2525252525252525252525F0%25252525252525252525259F%252525252525252525252587%2525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701184316
+vless://I_Love_%252525252525F0%2525252525259F%25252525252587%252525252525B5%252525252525F0%2525252525259F%25252525252587%252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702183850
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%252525252525252525252561291d1-b8f8-4967-93%2525252525252525252525616-4ff%25252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701184317
+vless://dd%25252525252561291d1-b8f8-4967-93%252525252525616-4ff%2525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702183851
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%252525252525252525252561291d1-b8f8-4967-93%2525252525252525252525616-4ff%25252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701184318
+vless://dd%25252525252561291d1-b8f8-4967-93%252525252525616-4ff%2525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702183852
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://I_Love_%252525252525252525252525F0%2525252525252525252525259F%25252525252525252525252587%252525252525252525252525B5%252525252525252525252525F0%2525252525252525252525259F%25252525252525252525252587%252525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701184376
-دلایل:
-  - حاوی کلمه کلیدی 'i_love_' است
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%25252525252525252525252561291d1-b8f8-4967-93%252525252525252525252525616-4ff%2525252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701184377
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://dd%25252525252525252525252561291d1-b8f8-4967-93%252525252525252525252525616-4ff%2525252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701184378
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-vless://I_Love_%25252525252525252525252525F0%252525252525252525252525259F%2525252525252525252525252587%25252525252525252525252525B5%25252525252525252525252525F0%252525252525252525252525259F%2525252525252525252525252587%25252525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0701184438
+vless://I_Love_%25252525252525F0%252525252525259F%2525252525252587%25252525252525B5%25252525252525F0%252525252525259F%2525252525252587%25252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702183917
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%2525252525252525252525252561291d1-b8f8-4967-93%25252525252525252525252525616-4ff%252525252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0701184439
+vless://dd%2525252525252561291d1-b8f8-4967-93%25252525252525616-4ff%252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702183918
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://dd%2525252525252525252525252561291d1-b8f8-4967-93%25252525252525252525252525616-4ff%252525252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0701184440
+vless://dd%2525252525252561291d1-b8f8-4967-93%25252525252525616-4ff%252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702183919
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://0cb04571-7%252525252565%252525252561d-42b6-%252525252561f3%252525252561-9fbb4%252525252565bc6847@www.speedtest.net:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&security=&encryption=none&host=p%61mch%61ll.com.&type=ws#%E6%9C%AA%E7%9F%A5_070118675
+vless://I_Love_%2525252525252525F0%25252525252525259F%252525252525252587%2525252525252525B5%2525252525252525F0%25252525252525259F%252525252525252587%2525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702183966
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%252525252525252561291d1-b8f8-4967-93%2525252525252525616-4ff%25252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702183967
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://%2525F0%25259F%252591%252589JOKERRVPN_JOKERRVPN%2525F0%25259F%252591%252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0701181422
+vless://dd%252525252525252561291d1-b8f8-4967-93%2525252525252525616-4ff%25252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702183968
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://%252525F0%2525259F%25252591%25252589JOKERRVPN_JOKERRVPN%252525F0%2525259F%25252591%25252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0701181427
+vless://I_Love_%252525252525252525F0%2525252525252525259F%25252525252525252587%252525252525252525B5%252525252525252525F0%2525252525252525259F%25252525252525252587%252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702184044
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%25252525252525252561291d1-b8f8-4967-93%252525252525252525616-4ff%2525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702184045
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://%2525252525F0%25252525259F%252525252591%252525252589JOKERRVPN_JOKERRVPN%2525252525F0%25252525259F%252525252591%252525252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0701181435
+vless://dd%25252525252525252561291d1-b8f8-4967-93%252525252525252525616-4ff%2525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702184046
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://%25252525252525F0%252525252525259F%2525252525252591%2525252525252589JOKERRVPN_JOKERRVPN%25252525252525F0%252525252525259F%2525252525252591%2525252525252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0701181445
+vless://I_Love_%25252525252525252525F0%252525252525252525259F%2525252525252525252587%25252525252525252525B5%25252525252525252525F0%252525252525252525259F%2525252525252525252587%25252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702184124
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%2525252525252525252561291d1-b8f8-4967-93%25252525252525252525616-4ff%252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702184125
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-vless://%2525252525252525F0%25252525252525259F%252525252525252591%252525252525252589JOKERRVPN_JOKERRVPN%2525252525252525F0%25252525252525259F%252525252525252591%252525252525252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0701181456
+vless://dd%2525252525252525252561291d1-b8f8-4967-93%25252525252525252525616-4ff%252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702184126
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_%2525252525252525252525F0%25252525252525252525259F%252525252525252525252587%2525252525252525252525B5%2525252525252525252525F0%25252525252525252525259F%252525252525252525252587%2525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702184210
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%252525252525252525252561291d1-b8f8-4967-93%2525252525252525252525616-4ff%25252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702184211
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%252525252525252525252561291d1-b8f8-4967-93%2525252525252525252525616-4ff%25252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702184212
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_%252525252525252525252525F0%2525252525252525252525259F%25252525252525252525252587%252525252525252525252525B5%252525252525252525252525F0%2525252525252525252525259F%25252525252525252525252587%252525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702184271
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%25252525252525252525252561291d1-b8f8-4967-93%252525252525252525252525616-4ff%2525252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702184272
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%25252525252525252525252561291d1-b8f8-4967-93%252525252525252525252525616-4ff%2525252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702184273
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_%25252525252525252525252525F0%252525252525252525252525259F%2525252525252525252525252587%25252525252525252525252525B5%25252525252525252525252525F0%252525252525252525252525259F%2525252525252525252525252587%25252525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702184330
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%2525252525252525252525252561291d1-b8f8-4967-93%25252525252525252525252525616-4ff%252525252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702184331
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%2525252525252525252525252561291d1-b8f8-4967-93%25252525252525252525252525616-4ff%252525252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702184332
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_%2525252525252525252525252525F0%25252525252525252525252525259F%252525252525252525252525252587%2525252525252525252525252525B5%2525252525252525252525252525F0%25252525252525252525252525259F%252525252525252525252525252587%2525252525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702184396
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%252525252525252525252525252561291d1-b8f8-4967-93%2525252525252525252525252525616-4ff%25252525252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702184397
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%252525252525252525252525252561291d1-b8f8-4967-93%2525252525252525252525252525616-4ff%25252525252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702184398
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_%252525252525252525252525252525F0%2525252525252525252525252525259F%25252525252525252525252525252587%252525252525252525252525252525B5%252525252525252525252525252525F0%2525252525252525252525252525259F%25252525252525252525252525252587%252525252525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702184470
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%25252525252525252525252525252561291d1-b8f8-4967-93%252525252525252525252525252525616-4ff%2525252525252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702184471
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%25252525252525252525252525252561291d1-b8f8-4967-93%252525252525252525252525252525616-4ff%2525252525252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702184472
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_%25252525252525252525252525252525F0%252525252525252525252525252525259F%2525252525252525252525252525252587%25252525252525252525252525252525B5%25252525252525252525252525252525F0%252525252525252525252525252525259F%2525252525252525252525252525252587%25252525252525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702184546
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%2525252525252525252525252525252561291d1-b8f8-4967-93%25252525252525252525252525252525616-4ff%252525252525252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702184547
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%2525252525252525252525252525252561291d1-b8f8-4967-93%25252525252525252525252525252525616-4ff%252525252525252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702184548
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_%2525252525252525252525252525252525F0%25252525252525252525252525252525259F%252525252525252525252525252525252587%2525252525252525252525252525252525B5%2525252525252525252525252525252525F0%25252525252525252525252525252525259F%252525252525252525252525252525252587%2525252525252525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702184595
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%252525252525252525252525252525252561291d1-b8f8-4967-93%2525252525252525252525252525252525616-4ff%25252525252525252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702184596
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%252525252525252525252525252525252561291d1-b8f8-4967-93%2525252525252525252525252525252525616-4ff%25252525252525252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702184597
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://I_Love_%252525252525252525252525252525252525F0%2525252525252525252525252525252525259F%25252525252525252525252525252525252587%252525252525252525252525252525252525B5%252525252525252525252525252525252525F0%2525252525252525252525252525252525259F%25252525252525252525252525252525252587%252525252525252525252525252525252525B8_sshOcean_85e1@172.67.210.56:443?type=ws&encryption=none&host=fi1.v2vless.site&path=%2Fvless&security=tls&sni=fi1.v2vless.site#CF%E4%B8%AD%E8%BD%AC_0702184646
+دلایل:
+  - حاوی کلمه کلیدی 'i_love_' است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%25252525252525252525252525252525252561291d1-b8f8-4967-93%252525252525252525252525252525252525616-4ff%2525252525252525252525252525252525256546b9717b@104.22.32.78:443?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2048&amp;security=tls&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=l%41mP200.oRg&amp;fp=qq&amp;type=ws&amp;sni=lAmP200.oRg#CF%E4%B8%AD%E8%BD%AC_0702184647
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://dd%25252525252525252525252525252525252561291d1-b8f8-4967-93%252525252525252525252525252525252525616-4ff%2525252525252525252525252525252525256546b9717b@104.17.147.22:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&amp;security=&amp;encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=%61b%72%61%72%76%61n1.com.&amp;type=ws#CF%E4%B8%AD%E8%BD%AC_0702184648
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://ecca8700-af9f-4ebcvless%25253A%25252F%25252Fecca8700-af9f-4ebc-8df0-5fd7559a000c@chloe.ns.cloudflare.com:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=nr5jsvub.musicirans.ir&type=ws&sni=nr5jsvub.musicirans.ir#%E6%9C%AA%E7%9F%A5_070218609
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://ecca8700-af9f-4ebcvless%2525253A%2525252F%2525252Fecca8700-af9f-4ebc-8df0-5fd7559a000c@chloe.ns.cloudflare.com:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=nr5jsvub.musicirans.ir&type=ws&sni=nr5jsvub.musicirans.ir#%E6%9C%AA%E7%9F%A5_070218615
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://ecca8700-af9f-4ebcvless%252525253A%252525252F%252525252Fecca8700-af9f-4ebc-8df0-5fd7559a000c@chloe.ns.cloudflare.com:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=nr5jsvub.musicirans.ir&type=ws&sni=nr5jsvub.musicirans.ir#%E6%9C%AA%E7%9F%A5_070218619
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://0cb04571-7%2525252525252525252565%2525252525252525252561d-42b6-%2525252525252525252561f3%2525252525252525252561-9fbb4%2525252525252525252565bc6847@www.speedtest.net:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762%3Fed%3D2560&security=&encryption=none&host=p%61mch%61ll.com.&type=ws#%E6%9C%AA%E7%9F%A5_070218696
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://%25252525F0%252525259F%2525252591%2525252589JOKERRVPN_JOKERRVPN%25252525F0%252525259F%2525252591%2525252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0702181363
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://%25252525252525F0%252525252525259F%2525252525252591%2525252525252589JOKERRVPN_JOKERRVPN%25252525252525F0%252525252525259F%2525252525252591%2525252525252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0702181376
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://%2525252525252525F0%25252525252525259F%252525252525252591%252525252525252589JOKERRVPN_JOKERRVPN%2525252525252525F0%25252525252525259F%252525252525252591%252525252525252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0702181378
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://%25252525252525252525F0%252525252525252525259F%2525252525252525252591%2525252525252525252589JOKERRVPN_JOKERRVPN%25252525252525252525F0%252525252525252525259F%2525252525252525252591%2525252525252525252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0702181379
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://%252525252525252525252525F0%2525252525252525252525259F%25252525252525252525252591%25252525252525252525252589JOKERRVPN_JOKERRVPN%252525252525252525252525F0%2525252525252525252525259F%25252525252525252525252591%25252525252525252525252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0702181384
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+vless://%25252525252525252525252525F0%252525252525252525252525259F%2525252525252525252525252591%2525252525252525252525252589JOKERRVPN_JOKERRVPN%25252525252525252525252525F0%252525252525252525252525259F%2525252525252525252525252591%2525252525252525252525252588@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=Loopingshop.com&type=ws#%E7%BE%8E%E5%9B%BD_0702181390
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
