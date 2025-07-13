@@ -2,11 +2,11 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 562
+  تعداد کانفیگ‌های مشکوک: 609
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Germany/config.txt
-  تعداد کانفیگ‌های مشکوک: 6
+  تعداد کانفیگ‌های مشکوک: 7
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_aad740c4.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Netherlands/config.txt
