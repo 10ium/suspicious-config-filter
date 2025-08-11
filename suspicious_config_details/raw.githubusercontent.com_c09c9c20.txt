@@ -1,0 +1,34 @@
+جزئیات کانفیگ‌های مشکوک برای URL:
+https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/vless.txt
+======================================================================
+
+کانفیگ:
+vless://4a8cf62f-998f-413e-8301-cc3d06e805e2@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&amp;security=none&amp;encryption=none=&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (16) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (17) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&amp;type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
+دلایل:
+  - تعداد '%25' (17) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://cb12aa10-1831-42a0-a489-bc459885187d@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&amp;security=none&amp;encryption=none=&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (16) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://e458f447-5f9f-4b96-aabf-a55b28be4308@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&amp;security=none&amp;encryption=none=&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (16) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (17) برابر یا بیشتر از 15 است
+----------------------------------------
