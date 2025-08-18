@@ -3,32 +3,112 @@ https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/vless.txt
 ======================================================================
 
 کانفیگ:
-vless://4a8cf62f-998f-413e-8301-cc3d06e805e2@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&amp;security=none&amp;encryption=none=&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
+vless://83dd918e-a373-4ea3-8e0f-5418e4a2f5d0@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=a.zedmodeon.ip-ddns.com&amp;type=ws#%40mehrosaboran
 دلایل:
-  - تعداد '%25' (16) برابر یا بیشتر از 15 است
+  - تعداد '%25' (25) برابر یا بیشتر از 15 است
 ----------------------------------------
 کانفیگ:
-vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
+vless://c058db12-2c29-49d2-8893-6c82561c162a@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=a.zedmodeon.ip-ddns.com&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (23) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://c466f914-a4e1-43ad-a646-a9bf26a101ae@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=b.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (36) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://006741b4-8a77-41f0-80d4-d35e6c2f5825@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=c.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (36) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://eea0e1c9-51e1-47d9-9575-07acafd522fb@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=a.joIn.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://607a63e6-19c0-4985-ba6e-cba7ab8b7e7a@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=d.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (32) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://bc2f38fb-7172-450c-88ee-ca8762317102@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=d.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (36) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://28e90585-3bee-46e2-9f53-a44a88d1d180@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=b.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (34) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://3743c683-a48f-4a39-a904-2467f23d88fb@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=a.joIn.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (36) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://bc2f38fb-7172-450c-88ee-ca8762317102@www.speedtest.net:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=d.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (36) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://cdd2303d-25d4-41d8-b84c-1015ae266031@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=b.zedmodeon.ip-ddns.com&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (25) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://012354de-a667-4d19-ae51-76e4808b5a04@172.66.40.99:8080?path=%2F-LiV2ry%40L%2549%2547%2548%2554N%2549N%25476-TEL--%40L%2549%2547%2548%2554N%2549N%25476-TEL--%40L%2549%2547%2548%2554N%2549N%25476-TEL--%40L%2549%2547%2548%2554N%2549N%25476-JOIN-%40L%2549%2547%2548%2554N%2549N%25476-TEL--%40L%2549%2547%2548%2554N%2549N%25476-JOIN-%40L%2549%2547%2548%2554N%2549N%25476-TEL-%40L%2549%2547%2548%2554N%2549N%25476-TEL--%40L%2549%2547%2548%2554N%2549N%25476-JOIN-%40L%2549%2547%2548%2554N%2549N%25476-TEL--%40L%2549%2547%2548%2554N%2549N%25476%3Fed%3D2048%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=Li.testi21.ddns-ip.net&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (67) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://c466f914-a4e1-43ad-a646-a9bf26a101ae@www.speedtest.net:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=b.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (36) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://a2c09a3a-a19c-43e2-a787-8b5dabb7b98c@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=c.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (38) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://722959c6-2cf0-4709-bb14-2716aa34c1fa@www.speedtest.net:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=b.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (38) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://bf065f28-9028-4578-a3ba-7738e7b7f53c@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=b.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://722959c6-2cf0-4709-bb14-2716aa34c1fa@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=b.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (38) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://8717aec5-a546-4dfa-b97d-399b167a8491@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=b.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (31) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://2739711a-fb3b-471a-9956-14f1a877ce9e@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=b.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
+دلایل:
+  - تعداد '%25' (40) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://dbf086e6-d8e6-4f43-890c-df1c5aa10b4a@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
 دلایل:
   - تعداد '%25' (17) برابر یا بیشتر از 15 است
 ----------------------------------------
 کانفیگ:
-vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&amp;type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
+vless://03d25213-a034-4021-8310-b56ab9ef4c8b@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=c.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
 دلایل:
-  - تعداد '%25' (17) برابر یا بیشتر از 15 است
+  - تعداد '%25' (34) برابر یا بیشتر از 15 است
 ----------------------------------------
 کانفیگ:
-vless://cb12aa10-1831-42a0-a489-bc459885187d@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&amp;security=none&amp;encryption=none=&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
+vless://7c48cd13-f242-45e4-adef-9a9321d16039@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&amp;security=none&amp;encryption=none&amp;host=b.jOin.zEdMoDeOn.oNl.&amp;type=ws#%40mehrosaboran
 دلایل:
-  - تعداد '%25' (16) برابر یا بیشتر از 15 است
-----------------------------------------
-کانفیگ:
-vless://e458f447-5f9f-4b96-aabf-a55b28be4308@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&amp;security=none&amp;encryption=none=&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
-دلایل:
-  - تعداد '%25' (16) برابر یا بیشتر از 15 است
-----------------------------------------
-کانفیگ:
-vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080%23%3D%2540&amp;security=none&amp;encryption=none&amp;host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&amp;type=ws#%40mehrosaboran
-دلایل:
-  - تعداد '%25' (17) برابر یا بیشتر از 15 است
+  - تعداد '%25' (32) برابر یا بیشتر از 15 است
 ----------------------------------------
