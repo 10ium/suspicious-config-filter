@@ -2,40 +2,20 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 2811
+  تعداد کانفیگ‌های مشکوک: 3046
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Germany/config.txt
-  تعداد کانفیگ‌های مشکوک: 7
+  تعداد کانفیگ‌های مشکوک: 9
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_aad740c4.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Netherlands/config.txt
   تعداد کانفیگ‌های مشکوک: 9
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_ed2ab54d.txt
 ------------------------------------------------
-URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Sweden/config.txt
-  تعداد کانفیگ‌های مشکوک: 2
-  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_ec855c16.txt
-------------------------------------------------
-URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Turkey/config.txt
-  تعداد کانفیگ‌های مشکوک: 1
-  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_f9352425.txt
-------------------------------------------------
-URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/United%20Kingdom/config.txt
-  تعداد کانفیگ‌های مشکوک: 1
-  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_c72e749a.txt
-------------------------------------------------
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/United%20States/config.txt
-  تعداد کانفیگ‌های مشکوک: 29
+  تعداد کانفیگ‌های مشکوک: 28
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_7a8406f7.txt
-------------------------------------------------
-URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 2
-  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_33dc859a.txt
-------------------------------------------------
-URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 2
-  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9acfc189.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/providers/ir
   تعداد کانفیگ‌های مشکوک: 1
