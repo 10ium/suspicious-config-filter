@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
 ======================================================================
 
 کانفیگ:
-vless://41125b44-841b-450d-a727-5eaf5105c672@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#FR🇫🇷 | c.jOin.zEdMoDeOn.oNl.-80 | 159.86ms
+vless://41125b44-841b-450d-a727-5eaf5105c672@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#FR🇫🇷 | c.jOin.zEdMoDeOn.oNl.-80 | 266.41ms
 دلایل:
   - تعداد '%25' (28) برابر یا بیشتر از 15 است
 ----------------------------------------
