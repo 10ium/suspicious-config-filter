@@ -2,7 +2,7 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 9195
+  تعداد کانفیگ‌های مشکوک: 9422
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
@@ -33,7 +33,7 @@ URL: https://raw.githubusercontent.com/rb360full/V2Ray-Configs/refs/heads/main/R
   تعداد کانفیگ‌های مشکوک: 2
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_3ba5fbf8.txt
 ------------------------------------------------
-URL: https://raw.githubusercontent.com/tristan-deng/v2rayNodesSelected/refs/heads/main/MyNodes.txt
+URL: https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt
   تعداد کانفیگ‌های مشکوک: 1
-  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_8d2255ed.txt
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_c084326a.txt
 ------------------------------------------------
