@@ -2,19 +2,19 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 3275
+  تعداد کانفیگ‌های مشکوک: 3392
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
-  تعداد کانفیگ‌های مشکوک: 1
+  تعداد کانفیگ‌های مشکوک: 3
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_40c2e9a9.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 2219
+  تعداد کانفیگ‌های مشکوک: 3165
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_33dc859a.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/US.txt
-  تعداد کانفیگ‌های مشکوک: 2
+  تعداد کانفیگ‌های مشکوک: 1
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_bf977e90.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random
@@ -22,7 +22,7 @@ URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_b6009d06.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 2219
+  تعداد کانفیگ‌های مشکوک: 3165
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9acfc189.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random
@@ -34,6 +34,6 @@ URL: https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/head
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_86862696.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/vless.txt
-  تعداد کانفیگ‌های مشکوک: 4
+  تعداد کانفیگ‌های مشکوک: 3
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_c09c9c20.txt
 ------------------------------------------------
