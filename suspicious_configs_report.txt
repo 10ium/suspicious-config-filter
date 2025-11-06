@@ -2,7 +2,7 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 4141
+  تعداد کانفیگ‌های مشکوک: 4203
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
@@ -14,16 +14,24 @@ URL: https://raw.githubusercontent.com/ResistalProxy/V2Ray/refs/heads/master/ser
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_12a5d93e.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 1268
+  تعداد کانفیگ‌های مشکوک: 1055
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_33dc859a.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/US.txt
   تعداد کانفیگ‌های مشکوک: 2
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_bf977e90.txt
 ------------------------------------------------
+URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random
+  تعداد کانفیگ‌های مشکوک: 2
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_b6009d06.txt
+------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 1268
+  تعداد کانفیگ‌های مشکوک: 1055
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9acfc189.txt
+------------------------------------------------
+URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random
+  تعداد کانفیگ‌های مشکوک: 2
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_b6009d06.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/providers/ir
   تعداد کانفیگ‌های مشکوک: 1
