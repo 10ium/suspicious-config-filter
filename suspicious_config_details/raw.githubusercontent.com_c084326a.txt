@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY
 ======================================================================
 
 کانفیگ:
-trojan://BxceQaOe@58.152.53.22:443?sni=t.me%25252Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
+trojan://BxceQaOe@13.231.125.141:4012?allowInsecure=0&sni=t.me%25252Fripaojiedian#🇯🇵[openproxylist.com] trojan-JP
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
