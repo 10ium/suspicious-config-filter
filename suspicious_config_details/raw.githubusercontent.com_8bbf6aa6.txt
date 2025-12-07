@@ -3,7 +3,37 @@ https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
 ======================================================================
 
 کانفیگ:
-trojan://BxceQaOe@58.152.25.242:443?security=tls&sni=t.me%25252Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-161%20%7C%20free-nodes
+trojan://BxceQaOe@58.152.25.242:443?security=tls&sni=t.me%25252Fripaojiedian#HK%20TROJAN-100%20%7C%20free-nodes
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.25.242:443?security=tls&sni=t.me%25252Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-495%20%7C%20free-nodes
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.25.242:443?security=tls&sni=t.me%25252Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1354%20%7C%20free-nodes
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.25.242:443?security=tls&sni=t.me%25252Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1464%20%7C%20free-nodes
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.25.242:443?security=tls&sni=t.me%25252Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1476%20%7C%20free-nodes
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.25.242:443?security=tls&sni=t.me%25252Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1811%20%7C%20free-nodes
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.25.242:443?security=tls&sni=t.me%25252Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1921%20%7C%20free-nodes
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
