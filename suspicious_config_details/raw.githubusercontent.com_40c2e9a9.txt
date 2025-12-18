@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
 ======================================================================
 
 کانفیگ:
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_61cbbe6@172.66.40.99:443?path=%2Fvless%3Ftelegram-id-v2box-v2%2Fwww.speedtest.net%3A443%3Fed%3D443&security=tls&encryption=none&type=ws&sni=afreca.looloolooloo.com#RELAY🚩 | afreca.looloolooloo.com-443 | 42.45ms
+vless://I_Love_🇵🇸_SSHMax_61cbbe6@172.66.40.99:443?path=%2Fvless%3Ftelegram-id-v2box-v2%2Fwww.speedtest.net%3A443%3Fed%3D443&security=tls&encryption=none&allowinsecure=0&type=ws&sni=afreca.looloolooloo.com#RELAY🚩 | afreca.looloolooloo.com-443 | 32.02ms
 دلایل:
   - حاوی کلمه کلیدی 'i_love_' است
 ----------------------------------------

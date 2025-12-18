@@ -3,11 +3,6 @@ https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 ======================================================================
 
 کانفیگ:
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_61cbbe6@172.66.40.99:443?encryption=none&security=tls&sni=afreca.looloolooloo.com&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-دلایل:
-  - حاوی کلمه کلیدی 'i_love_' است
-----------------------------------------
-کانفیگ:
 trojan://BxceQaOe@219.79.214.159:443?security=tls&sni=t.me%25252Fripaojiedian&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0_%E9%A6%99%E6%B8%AF
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
