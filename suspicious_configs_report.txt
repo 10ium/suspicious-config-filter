@@ -2,15 +2,15 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 2027
+  تعداد کانفیگ‌های مشکوک: 2175
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
-URL: https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
+URL: https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
   تعداد کانفیگ‌های مشکوک: 1
-  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_bd89646d.txt
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_6d71e8a2.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 3399
+  تعداد کانفیگ‌های مشکوک: 2951
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_33dc859a.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/US.txt
@@ -18,10 +18,14 @@ URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/U
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_bf977e90.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 3399
+  تعداد کانفیگ‌های مشکوک: 2951
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9acfc189.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/providers/ir
   تعداد کانفیگ‌های مشکوک: 1
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_86862696.txt
+------------------------------------------------
+URL: https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+  تعداد کانفیگ‌های مشکوک: 1
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9d16f6e0.txt
 ------------------------------------------------
