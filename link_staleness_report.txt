@@ -1,12 +1,6 @@
 گزارش وضعیت به‌روزرسانی لینک‌ها
 ==============================
-گزارش تولید شده در: 2025-12-26 13:50:42 UTC
-
-URL: https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodefree.txt
-وضعیت: امروز به‌روز شد (محتوا تغییر کرد).
-
-URL: https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/v2rayshare.txt
-وضعیت: امروز به‌روز شد (محتوا تغییر کرد).
+گزارش تولید شده در: 2025-12-27 13:46:02 UTC
 
 URL: https://raw.githubusercontent.com/Huibq/TrojanLinks/refs/heads/master/links/ssr
 وضعیت: امروز به‌روز شد (محتوا تغییر کرد).
@@ -77,6 +71,12 @@ URL: https://raw.githubusercontent.com/peasoft/NoMoreWalls/refs/heads/master/lis
 URL: https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt
 وضعیت: امروز به‌روز شد (محتوا تغییر کرد).
 
+URL: https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodefree.txt
+وضعیت: 0 روز از آخرین به‌روزرسانی محتوا گذشته است.
+
+URL: https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/v2rayshare.txt
+وضعیت: 0 روز از آخرین به‌روزرسانی محتوا گذشته است.
+
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random
 وضعیت: 0 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
@@ -99,49 +99,49 @@ URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/ma
 وضعیت: 2 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/tristan-deng/v2rayNodesSelected/refs/heads/main/MyNodes.txt
-وضعیت: 2 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 3 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/ss.txt
-وضعیت: 3 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 4 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/vmess.txt
-وضعیت: 3 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 4 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/vless.txt
-وضعیت: 3 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 4 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/trojan.txt
-وضعیت: 3 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 4 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/yudou66.txt
 وضعیت: 7 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/liketolivefree/kobabi/refs/heads/main/sub.txt
-وضعیت: 7 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 8 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/rb360full/V2Ray-Configs/refs/heads/main/Reza-2
-وضعیت: 7 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 8 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/hfarahani/pr/refs/heads/main/pr.txt
-وضعیت: 12 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 13 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 13 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 14 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/Rayan-Config/Rayan-Config.github.io/refs/heads/main/ALL
-وضعیت: 13 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 14 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-IV
-وضعیت: 13 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 14 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-V
-وضعیت: 13 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 14 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-I
 وضعیت: 21 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-III
-وضعیت: 29 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 30 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/ResistalProxy/V2Ray/refs/heads/master/server.txt
 وضعیت: 38 روز از آخرین به‌روزرسانی محتوا گذشته است.
@@ -162,34 +162,34 @@ URL: https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/
 وضعیت: 74 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Huibq/TrojanLinks/refs/heads/master/links/vmess
-وضعیت: 98 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 99 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Ennzo0/V2ray/refs/heads/main/all.txt
 وضعیت: 109 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/ndsphonemy/proxy-sub/refs/heads/main/hys-tuic.txt
-وضعیت: 113 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 114 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Germany/config.txt
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 114 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 115 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Netherlands/config.txt
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 114 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 115 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Iran/config.txt
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 114 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
-
-URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/United%20Kingdom/config.txt
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 114 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
-
-URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/United%20States/config.txt
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 114 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 115 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Turkey/config.txt
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 115 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 115 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
+
+URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/United%20Kingdom/config.txt
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 115 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
+
+URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/United%20States/config.txt
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 115 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Sweden/config.txt
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 117 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 118 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/HDYOU/porxy/refs/heads/main/combine.txt
 وضعیت: 127 روز از آخرین به‌روزرسانی محتوا گذشته است.
@@ -198,7 +198,7 @@ URL: https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link
 وضعیت: 129 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/theGreatPeter/v2rayNodes/refs/heads/main/nodes.txt
-وضعیت: 133 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 134 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt
 وضعیت: 166 روز از آخرین به‌روزرسانی محتوا گذشته است.
@@ -219,89 +219,89 @@ URL: https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/
 وضعیت: 166 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://ivuxy.tech/v.txt
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 168 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 168 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/custom/udp.txt
-وضعیت: 173 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 174 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/providers/ir
-وضعیت: 173 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 174 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/hysteria
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/juicity
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/tuic
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 176 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet_iOS.txt
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/refs/heads/main/subscribe/v2ray.txt
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://muma16fx.netlify.app
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://qiaomenzhuanfx.netlify.app
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Bahrain/config.txt
-وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 208 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت. آخرین به‌روزرسانی محتوا 209 روز پیش بود. (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/refs/heads/main/subscription/main.txt
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Rayan-Config/Rayan-Config.github.io/refs/heads/main/WG
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/bugfix.txt
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/freedomnet25500/newyearsub/refs/heads/main/ss
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/moeinkey/key/refs/heads/main/ssh
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/ndsphonemy/proxy-sub/refs/heads/main/lt-sub.txt
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://raw.githubusercontent.com/wudongdefeng/free/refs/heads/main/freevm/list_raw.txt
-وضعیت: 208 روز از آخرین به‌روزرسانی محتوا گذشته است.
+وضعیت: 209 روز از آخرین به‌روزرسانی محتوا گذشته است.
 
 URL: https://sDTz6J.absslk.xyz/3e1fc97dfeebc0778a6176c1742d06de
-وضعیت: خطا در دریافت (لینک جدید یا بدون سابقه موفق). (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت (لینک جدید یا بدون سابقه موفق). (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://joYAQx.mcsslk.xyz/62e8b56aa7f98dcfb44c5a77291ab2ff
-وضعیت: خطا در دریافت (لینک جدید یا بدون سابقه موفق). (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت (لینک جدید یا بدون سابقه موفق). (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho
-وضعیت: خطا در دریافت (لینک جدید یا بدون سابقه موفق). (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت (لینک جدید یا بدون سابقه موفق). (آخرین تلاش برای بررسی: 2025-12-27)
 
 URL: https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Test-Config
-وضعیت: خطا در دریافت (لینک جدید یا بدون سابقه موفق). (آخرین تلاش برای بررسی: 2025-12-26)
+وضعیت: خطا در دریافت (لینک جدید یا بدون سابقه موفق). (آخرین تلاش برای بررسی: 2025-12-27)
 
