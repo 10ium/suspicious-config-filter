@@ -3,12 +3,12 @@ https://raw.githubusercontent.com/peasoft/NoMoreWalls/refs/heads/master/list_raw
 ======================================================================
 
 کانفیگ:
-trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#%23041%20HK11
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#%23086%20HK42
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2525252Fripaojiedian#%23042%20HK12
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2525252Fripaojiedian#%23123%20HK53
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
