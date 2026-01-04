@@ -2,15 +2,15 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 3701
+  تعداد کانفیگ‌های مشکوک: 3808
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
-URL: https://raw.githubusercontent.com/ts-sf/fly/refs/heads/main/v2
-  تعداد کانفیگ‌های مشکوک: 1
-  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_3bec28b4.txt
+URL: https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
+  تعداد کانفیگ‌های مشکوک: 2
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_bd89646d.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
-  تعداد کانفیگ‌های مشکوک: 1
+  تعداد کانفیگ‌های مشکوک: 2
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_40c2e9a9.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
@@ -38,7 +38,7 @@ URL: https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/head
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_86862696.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/peasoft/NoMoreWalls/refs/heads/master/list_raw.txt
-  تعداد کانفیگ‌های مشکوک: 2
+  تعداد کانفیگ‌های مشکوک: 1
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_8bac2998.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/vless.txt
