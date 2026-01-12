@@ -3,17 +3,170 @@ https://raw.githubusercontent.com/peasoft/NoMoreWalls/refs/heads/master/list_raw
 ======================================================================
 
 کانفیگ:
-trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%252525252Fripaojiedian#HK22%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%252B%255BBy%252BDukeMehdi%255D%252Bb2n.ir%252Fv2ray-configs%252B%257C%252B83%252B#HK20%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%252520%252520%252520%252520%252520%252520%252520%25255BBy%252520EbraSha%255D%252520b2n.ir%25252Fv2ray-configs%252520#HK21%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2525252Fripaojiedian#HK76%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#HK22%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#HK85%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%250A%255BBy%2520DukeMehdi%255D%2520b2n.ir%252Fv2ray-configs%2520%257C%2520783%2520#HK23%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%252520%25255BBy%252520EbraSha%25255D%252520b2n.ir%25252Fv2ray-configs%252520%25257C%252520934%252520#HK26%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%252B%255BBy%252BDukeMehdi%255D%252B#HK27%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (23) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%252520%25255BBy%252520DukeMehdi%25255D%252520b2n.ir%25252Fv2ray-configs%252520%25257C%252520783%252520#HK28%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%252520%25255BBy%252520DukeMehdi%25255D%252520b2n.ir%25252Fv2ray-configs%252520%25257C%252520166%252520#HK29%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%25252B%25255BBy%25252BDukeMehdi%25255D%25252Btrojan-HK%25252B#HK30%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (24) برابر یا بیشتر از 15 است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%250A%255BBy%252BEbraSha%255D%252Btrojan-HK%252B#HK31%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (24) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%2520%255BBy%2520DukeMehdi%255D%2520b2n.ir%252Fv2ray-configs%2520%257C%2520166%2520#HK32%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%252B%255BBy%252BEbraSha%255D%252Bb2n.ir%252Fv2ray-configs%252B#HK33%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (25) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%2520%255BBy%2520DukeMehdi%255D%2520b2n.ir%252Fv2ray-configs%2520%257C%2520160%2520#HK34%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%252520%252520%252520%252520%252520%252520%252520%25255BBy%252520DukeMehdi%25255D%252520#HK35%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%252520%25255BBy%252520DukeMehdi%25255D%252520#HK36%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (23) برابر یا بیشتر از 15 است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%252B%255BBy%252BDukeMehdi%255D%252Bb2n.ir%252Fv2ray-configs%252B%257C%252B160%252B#HK37%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%252B%252B%252B%252B%252B%252B%252B%255BBy%252BDukeMehdi%255D%252Bb2n.ir%252Fv2ray-configs%252B%257C%252B78%252B#HK38%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (16) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2520%2520%2520%2520%2520%2520%2520%255BBy%2520DukeMehdi%255D%2520b2n.ir%252Fv2ray-configs%2520%257C%252078%2520#HK39%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (16) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2520%2520%2520%2520%2520%2520%2520%255BBy%2520EbraSha%255D%2520b2n.ir%252Fv2ray-configs%2520%257C%2520789%2520#HK42%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (16) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%252520%25255BBy%252520EbraSha%25255D%252520b2n.ir%25252Fv2ray-configs%252520%25257C%252520178%252520#HK46%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%252520%25252B%25255BBy%25252BDukeMehdi%25255D%25252Btrojan-HK%25252B#HK48%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%2520%255BBy%2520DukeMehdi%255D%2520b2n.ir%252Fv2ray-configs%2520%257C%2520868%2520#HK50%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%252B%255BBy%252BDukeMehdi%255D%252Bb2n.ir%252Fv2ray-configs%252B%257C%252B402%252B#HK51%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2520%2520%2520%2520%2520%2520%2520%255BBy%2520EbraSha%255D%2520b2n.ir%252Fv2ray-configs%2520%257C%2520868%2520#HK53%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (16) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%252B%255BBy%252BEbraSha%255D%252Bb2n.ir%252Fv2ray-configs%252B%257C%252B868%252B#HK55%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%252520%25252B%25255BBy%25252BEbraSha%25255D%25252Btrojan-HK%25252B#HK56%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%252520%25255BBy%252520EbraSha%25255D%252520b2n.ir%25252Fv2ray-configs%252520%25257C%252520885%252520#HK57%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD#HK59%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (18) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%2525EF%2525BF%2525BD%25252B%25255BBy%25252BEbraSha%25255D%25252Btrojan-HK%25252B#HK60%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (24) برابر یا بیشتر از 15 است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%252B%252B%252B%252B%252B%252B%252B%255BBy%252BEbraSha%255D%252Bb2n.ir%252Fv2ray-configs%252B%257C%252B83%252B#HK61%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (16) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%25EF%25BF%25BD%2520%255BBy%2520DukeMehdi%255D%2520b2n.ir%252Fv2ray-configs%2520%257C%2520789%2520#HK62%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (28) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2520%2520%2520%2520%2520%2520%2520%255BBy%2520EbraSha%255D%2520b2n.ir%252Fv2ray-configs%2520%257C%252083%2520#HK64%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+دلایل:
+  - تعداد '%25' (16) برابر یا بیشتر از 15 است
 ----------------------------------------
