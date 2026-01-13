@@ -2,16 +2,24 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 4370
+  تعداد کانفیگ‌های مشکوک: 4432
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 266
+  تعداد کانفیگ‌های مشکوک: 369
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_33dc859a.txt
 ------------------------------------------------
+URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random
+  تعداد کانفیگ‌های مشکوک: 1
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_b6009d06.txt
+------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 266
+  تعداد کانفیگ‌های مشکوک: 369
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9acfc189.txt
+------------------------------------------------
+URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random
+  تعداد کانفیگ‌های مشکوک: 1
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_b6009d06.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/providers/ir
   تعداد کانفیگ‌های مشکوک: 1
@@ -22,6 +30,6 @@ URL: https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/m
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_8fe8c24d.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/peasoft/NoMoreWalls/refs/heads/master/list_raw.txt
-  تعداد کانفیگ‌های مشکوک: 32
+  تعداد کانفیگ‌های مشکوک: 107
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_8bac2998.txt
 ------------------------------------------------
