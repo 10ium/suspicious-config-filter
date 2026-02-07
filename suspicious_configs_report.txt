@@ -2,11 +2,15 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 5588
+  تعداد کانفیگ‌های مشکوک: 5618
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
+URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/ipv6.txt
+  تعداد کانفیگ‌های مشکوک: 3
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_e2400eec.txt
+------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 448
+  تعداد کانفیگ‌های مشکوک: 1008
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_33dc859a.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random
@@ -14,7 +18,7 @@ URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_b6009d06.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 448
+  تعداد کانفیگ‌های مشکوک: 1008
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9acfc189.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random
