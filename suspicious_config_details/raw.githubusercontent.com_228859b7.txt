@@ -3,7 +3,122 @@ https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/ma
 ======================================================================
 
 کانفیگ:
-vless://04065d54-10f3-4e11-95d3-f98f8429c3ea@141.227.174.26:32416?mode=gun&security=none&encryption=none&authority=V2rayBaaz---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir---@freenettir&type=grpc&serviceName=%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-bia-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4Er%E2%99%A1ya
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbbhny.191268.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=BBBHNY.191268.XyZ&sni=BBbhNY.191268.xYz&alpn=http%25252f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
 دلایل:
-  - طول (1968) برابر یا بیشتر از 1500 است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbbhny.191268.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=BBBHNY.191268.XyZ&sni=BBbhNY.191268.xYz&alpn=http%25252f1.1&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbnhmjk.191262.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=BbNhMjk.191262.xYz&sni=BbNHmJK.191262.xYZ&alpn=http%25252f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbnhmjk.191262.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=BbNhMjk.191262.xYz&sni=BbNHmJK.191262.xYZ&alpn=http%25252f1.1&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbnmj.191268.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=bbnmJ.191268.xYz&sni=bbNmj.191268.xYZ&alpn=http%25252f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET👈 آموزش اتصال 👉⚡️Telegram = @SOSkeyNET عضو شو
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbnmj.191268.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=bbnmJ.191268.xYz&sni=bbNmj.191268.xYZ&alpn=http%25252f1.1&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@dcvf.7777198.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=DCVF.7777198.xyz&sni=DcVF.7777198.xyZ&alpn=http%25252f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@dcvf.7777198.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=DCVF.7777198.xyz&sni=DcVF.7777198.xyZ&alpn=http%25252f1.1&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@fffvbg.890634.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=ffFVBg.890634.xYZ&sni=fffVBg.890634.xYZ&alpn=http%25252f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@fffvbg.890634.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=ffFVBg.890634.xYZ&sni=fffVBg.890634.xYZ&alpn=http%25252f1.1&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@gggnhhy.huangshang.online:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=GGgnhHY.huaNGSHang.ONLInE&sni=GGGNHHY.huanGshANg.ONlinE&alpn=http%25252f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@gggnhhy.huangshang.online:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=GGgnhHY.huaNGSHang.ONLInE&sni=GGGNHHY.huanGshANg.ONlinE&alpn=http%25252f1.1&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@vvbnhjm.890634.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=VvBnHjm.890634.XyZ&sni=vvbNHJm.890634.XYz&alpn=http%25252f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@vvbnhjm.890634.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=VvBnHjm.890634.XyZ&sni=vvbNHJm.890634.XYz&alpn=http%25252f1.1&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@cccvgt.7777125.xyz:443?type=ws&security=tls&path=%252ftSROScnWofV7ia41dH&host=ccCVGT.7777125.XyZ&sni=CccvGT.7777125.XyZ&alpn=http%25252f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@cccvgt.7777125.xyz:443?type=ws&security=tls&path=%252ftSROScnWofV7ia41dH&host=ccCVGT.7777125.XyZ&sni=CccvGT.7777125.XyZ&alpn=http%25252f1.1&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443?type=ws&security=tls&path=%252ftSROScnWofV7ia41dH&host=iiiiii9.HuANGShANg.uS.ci&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http%25252f1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443?type=ws&security=tls&path=%252ftSROScnWofV7ia41dH&host=iiiiii9.HuANGShANg.uS.ci&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http%25252f1.1&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://humanity@v1.dabache.top:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://humanity@v1.dabache.top:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://trojan@22b.net:2087?type=ws&security=tls&path=%252F%253FBIA_TELEGRAM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529&sni=store.timimi.dpdns.org&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - تعداد '%25' (31) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+trojan://trojan@22b.net:2087?type=ws&security=tls&path=%252F%253FBIA_TELEGRAM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529&sni=store.timimi.dpdns.org&allowInsecure=1#✅@AR14N24b
+دلایل:
+  - تعداد '%25' (31) برابر یا بیشتر از 15 است
 ----------------------------------------
