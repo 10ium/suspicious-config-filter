@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
 ======================================================================
 
 کانفیگ:
-vless://fd9d8480-bced-4b2c-9c4d-a67bada7f054@cdn.solidnet.fun:80?mode=auto&path=%2Fapi%2Fstatus&security=&encryption=none&extra=%257B%250A%2520%2520%2522noGRPCHeader%2522%2520%3A%2520false%2C%250A%2520%2520%2522scMaxConcurrentPosts%2522%2520%3A%2520100%2C%250A%2520%2520%2522scMaxEachPostBytes%2522%2520%3A%2520%25221000000%2522%2C%250A%2520%2520%2522scMinPostsIntervalMs%2522%2520%3A%252030%2C%250A%2520%2520%2522xPaddingBytes%2522%2520%3A%2520%25220%2522%250A%257D&host=WesternEasternRN.global.ssl.fastly.net&type=xhttp#US🇺🇸 | WesternEasternRN.global.ssl.fastly.net-80 | 4.55ms
+trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%25252fassignment&allowInsecure=1#RELAY🚩 | www.gossipglove.com-443 | 79.13ms
 دلایل:
-  - تعداد '%25' (42) برابر یا بیشتر از 15 است
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
