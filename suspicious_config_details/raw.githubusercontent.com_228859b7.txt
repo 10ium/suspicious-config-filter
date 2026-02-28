@@ -3,32 +3,12 @@ https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/ma
 ======================================================================
 
 کانفیگ:
-trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%25252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#⚡Telegram = @SOSkeyNET
+trojan://trojan@109.234.211.66:2087?allowInsecure=1&sni=store.timimi.dpdns.org&ws=1&wspath=%25252F#⚡Telegram = @SOSkeyNET
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%25252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#✅@AR14N24b
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%252Fassignment&host=www.creationlong.org&sni=www.creationlong.org&fp=chrome&alpn=h2%25252Chttp%25252F1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%252Fassignment&host=www.creationlong.org&sni=www.creationlong.org&fp=chrome&alpn=h2%25252Chttp%25252F1.1&allowInsecure=1#✅@AR14N24b
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%252Fassignment&host=www.creationlong.org&sni=www.creationlong.org&fp=chrome&alpn=h2%25252Chttp%25252F1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
-دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
-----------------------------------------
-کانفیگ:
-trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%252Fassignment&host=www.creationlong.org&sni=www.creationlong.org&fp=chrome&alpn=h2%25252Chttp%25252F1.1&allowInsecure=1#✅@AR14N24b
+trojan://trojan@109.234.211.66:2087?allowInsecure=1&sni=store.timimi.dpdns.org&ws=1&wspath=%25252F#✅@AR14N24b🤖 #کانفیگ #proxy #v2rayبهترین راهکار رفع مشکل اتصال به فیلترشکن 🧠🚀 بوست | 💬 دایرکت | 💰 حمایت یادتون نره @AR14N24B
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------

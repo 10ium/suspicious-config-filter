@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
 ======================================================================
 
 کانفیگ:
-trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%25252fassignment&allowInsecure=1#RELAY🚩 | www.gossipglove.com-443 | 31.81ms
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@109.120.180.30:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&path=%25252F&fp=chrome&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&sid=edbc04c389#REALITY|RU🇷🇺 | 109.120.180.30-443 | 316.75ms
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
