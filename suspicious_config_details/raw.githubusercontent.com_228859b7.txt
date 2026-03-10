@@ -3,12 +3,12 @@ https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/ma
 ======================================================================
 
 کانفیگ:
-trojan://trojan@109.234.211.66:2087?allowInsecure=1&sni=store.timimi.dpdns.org&ws=1&wspath=%25252F#⚡Telegram = @SOSkeyNET
+trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#⚡Telegram = @SOSkeyNET
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-trojan://trojan@109.234.211.66:2087?allowInsecure=1&sni=store.timimi.dpdns.org&ws=1&wspath=%25252F#✅@AR14N24b🤖 #کانفیگ #proxy #v2rayبهترین راهکار رفع مشکل اتصال به فیلترشکن 🧠🚀 بوست | 💬 دایرکت | 💰 حمایت یادتون نره @AR14N24B
+trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#✅@AR14N24b
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
