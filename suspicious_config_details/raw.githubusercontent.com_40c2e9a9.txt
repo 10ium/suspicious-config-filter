@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
 ======================================================================
 
 کانفیگ:
-trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#RELAY🚩 | www.multiplydose.com-443 | 98.33ms
+trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#RELAY🚩 | www.multiplydose.com-443 | 74.05ms
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
