@@ -3,12 +3,12 @@ https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/ma
 ======================================================================
 
 کانفیگ:
-trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#⚡Telegram = @SOSkeyNET
+trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@203.69.248.40:14147?allowInsecure=1&sni=snll667.pages.dev&ws=1&wspath=%25252F#⚡Telegram = @SOSkeyNET
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#✅@AR14N24b
+trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@203.69.248.40:14147?allowInsecure=1&sni=snll667.pages.dev&ws=1&wspath=%25252F#✅@AR14N24b
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
