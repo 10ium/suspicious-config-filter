@@ -3,12 +3,27 @@ https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/ma
 ======================================================================
 
 کانفیگ:
-trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@203.69.248.40:14147?allowInsecure=1&sni=snll667.pages.dev&ws=1&wspath=%25252F#⚡Telegram = @SOSkeyNET
+trojan://c558328b-eb46-424c-b9e0-574770f0b072@rft5.xx9.ccwu.cc:443?type=ws&security=tls&path=%252Fks4McWjhV7bXNC0BXGtJ&host=rft5.xx9.ccwu.cc&sni=rft5.xx9.ccwu.cc&alpn=http%25252F1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET👈 آموزش اتصال 👉⚡️Telegram = @SOSkeyNET عضو شو
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@203.69.248.40:14147?allowInsecure=1&sni=snll667.pages.dev&ws=1&wspath=%25252F#✅@AR14N24b
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nnggf.66x.ccwu.cc:443?type=ws&security=tls&path=%252FmRjWgF9aMWcpQ8L96b&host=nnggf.66x.ccwu.cc&sni=nnggf.66x.ccwu.cc&alpn=http%25252F1.1&allowInsecure=1#⚡Telegram = @SOSkeyNET
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://humanity@v1.dabache.top:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#⚡Telegram = @SOSkeyNET👈 آموزش اتصال 👉⚡️Telegram = @SOSkeyNET عضو شو
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - حاوی دنباله کدگذاری دوگانه '%2525' است
+----------------------------------------
+کانفیگ:
+trojan://trojan@22b.net:2087?type=ws&security=tls&path=%252F%253FBIA_TELEGRAM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529&sni=store.timimi.dpdns.org&allowInsecure=1#⚡Telegram = @SOSkeyNET
+دلایل:
+  - تعداد '%25' (31) برابر یا بیشتر از 15 است
 ----------------------------------------
