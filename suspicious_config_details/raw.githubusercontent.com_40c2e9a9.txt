@@ -3,27 +3,27 @@ https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
 ======================================================================
 
 کانفیگ:
-trojan://trojan@22b.net:2087?type=ws&security=tls&path=%252F%253FBIA_TELEGRAM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529&sni=store.timimi.dpdns.org&allowInsecure=1#RELAY🚩 | store.timimi.dpdns.org-2087 | 158.7ms
+trojan://trojan@22b.net:2087?type=ws&security=tls&path=%252F%253FBIA_TELEGRAM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529&sni=store.timimi.dpdns.org&allowInsecure=1#RELAY🚩 | store.timimi.dpdns.org-2087 | 104.61ms
 دلایل:
   - تعداد '%25' (31) برابر یا بیشتر از 15 است
 ----------------------------------------
 کانفیگ:
-trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#RELAY🚩 | www.gossipglove.com-443 | 3.03ms
+trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#RELAY🚩 | www.gossipglove.com-443 | 2.95ms
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-trojan://humanity@v1.dabache.top:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#RELAY🚩 | www.multiplydose.com-443 | 3.41ms
+trojan://humanity@v1.dabache.top:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#RELAY🚩 | www.multiplydose.com-443 | 3.03ms
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nnggf.66x.ccwu.cc:443?type=ws&security=tls&path=%252FmRjWgF9aMWcpQ8L96b&host=nnggf.66x.ccwu.cc&sni=nnggf.66x.ccwu.cc&alpn=http%25252F1.1&allowInsecure=1#RELAY🚩 | nnggf.66x.ccwu.cc-443 | 174ms
+trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nnggf.66x.ccwu.cc:443?type=ws&security=tls&path=%252FmRjWgF9aMWcpQ8L96b&host=nnggf.66x.ccwu.cc&sni=nnggf.66x.ccwu.cc&alpn=http%25252F1.1&allowInsecure=1#RELAY🚩 | nnggf.66x.ccwu.cc-443 | 477.58ms
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
 کانفیگ:
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@rft5.xx9.ccwu.cc:443?type=ws&security=tls&path=%252Fks4McWjhV7bXNC0BXGtJ&host=rft5.xx9.ccwu.cc&sni=rft5.xx9.ccwu.cc&alpn=http%25252F1.1&allowInsecure=1#RELAY🚩 | rft5.xx9.ccwu.cc-443 | 179.8ms
+trojan://c558328b-eb46-424c-b9e0-574770f0b072@rft5.xx9.ccwu.cc:443?type=ws&security=tls&path=%252Fks4McWjhV7bXNC0BXGtJ&host=rft5.xx9.ccwu.cc&sni=rft5.xx9.ccwu.cc&alpn=http%25252F1.1&allowInsecure=1#RELAY🚩 | rft5.xx9.ccwu.cc-443 | 798.85ms
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
