@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/peasoft/NoMoreWalls/refs/heads/master/list_raw
 ======================================================================
 
 کانفیگ:
-trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#HK34%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+trojan://8r%253C%255B9%2527l6hAO%25238ZQi@154.197.88.253:443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2005%20TG%3A%20%40nodpai
 دلایل:
-  - حاوی دنباله کدگذاری دوگانه '%2525' است
+  - تعداد '%25' (15) برابر یا بیشتر از 15 است
 ----------------------------------------
