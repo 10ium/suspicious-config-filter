@@ -9,3 +9,7 @@ URL: https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/head
   تعداد کانفیگ‌های مشکوک: 1
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_86862696.txt
 ------------------------------------------------
+URL: https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+  تعداد کانفیگ‌های مشکوک: 2
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9d16f6e0.txt
+------------------------------------------------
