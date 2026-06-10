@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
 ======================================================================
 
 کانفیگ:
-trojan://v2raydia@104.16.75.207:2053?security=tls%25253D&type=#RELAY🚩 | 104.16.75.207-2053 | 3.04ms
+vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@89.124.77.162:443?security=reality&encryption=none&pbk=8iEloJudtgXA0pTiSgFnq0quKAVHjnqm9r3TClydlCM&headerType=none&fp=ios&spx=%252525252F7ZSyT86dJQSD9Z3&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=0bffe935818e6964#REALITY|NL🇳🇱 | 89.124.77.162-443 | 109.28ms
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
