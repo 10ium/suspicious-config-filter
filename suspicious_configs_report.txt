@@ -2,22 +2,30 @@
 ================================================
 
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 1583
+  تعداد کانفیگ‌های مشکوک: 1601
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 1056
+  تعداد کانفیگ‌های مشکوک: 875
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_33dc859a.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/US.txt
-  تعداد کانفیگ‌های مشکوک: 8
+  تعداد کانفیگ‌های مشکوک: 4
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_bf977e90.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/converted.txt
-  تعداد کانفیگ‌های مشکوک: 1056
+  تعداد کانفیگ‌های مشکوک: 875
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9acfc189.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/providers/ir
   تعداد کانفیگ‌های مشکوک: 1
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_86862696.txt
+------------------------------------------------
+URL: https://raw.githubusercontent.com/ermaozi/get_subscribe/refs/heads/main/subscribe/v2ray.txt
+  تعداد کانفیگ‌های مشکوک: 1
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_b9e5a5b2.txt
+------------------------------------------------
+URL: https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+  تعداد کانفیگ‌های مشکوک: 1
+  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_9d16f6e0.txt
 ------------------------------------------------

@@ -1,5 +1,5 @@
 جزئیات کانفیگ‌های مشکوک برای URL:
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+https://raw.githubusercontent.com/ermaozi/get_subscribe/refs/heads/main/subscribe/v2ray.txt
 ======================================================================
 
 کانفیگ:
