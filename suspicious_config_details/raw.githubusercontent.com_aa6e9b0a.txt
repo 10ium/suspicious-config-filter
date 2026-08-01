@@ -1,0 +1,9 @@
+جزئیات کانفیگ‌های مشکوک برای URL:
+https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/SSTime
+======================================================================
+
+کانفیگ:
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@129.159.34.196:443/?plugin=v2ray-plugin%253Bmode%253Dwebsocket%253Bpath%253D3e96ef7d-8637-42c2-ac73-75182196e755%252F%253Fed%253D2560%253Bmux%253D0%253Bskip-cert-verify%253Dtrue%253Bhost%253Dmfvpn.fuchen.indevs.in%253Btls%253Bsni%253DTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2#🇺🇸US Dìa—540
+دلایل:
+  - تعداد '%25' (26) برابر یا بیشتر از 15 است
+----------------------------------------
