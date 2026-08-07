@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 ======================================================================
 
 کانفیگ:
-trojan://BxceQaOe@95.40.205.94:26704?security=tls&sni=t.me%25252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0_%E9%A6%99%E6%B8%AF_70
+trojan://BxceQaOe@43.198.209.68:41421?security=tls&sni=t.me%25252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0_%E9%A6%99%E6%B8%AF_76
 دلایل:
   - حاوی دنباله کدگذاری دوگانه '%2525' است
 ----------------------------------------
