@@ -1,10 +1,6 @@
 خلاصه URLهایی که دارای کانفیگ‌های مشکوک بودند:
 ================================================
 
-URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 2976
-  فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
-------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
   تعداد کانفیگ‌های مشکوک: 1
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_33dc859a.txt
