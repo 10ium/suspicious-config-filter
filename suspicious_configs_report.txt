@@ -6,7 +6,7 @@ URL: https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_da0c5128.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
-  تعداد کانفیگ‌های مشکوک: 192
+  تعداد کانفیگ‌های مشکوک: 199
   فایل جزئیات: ./suspicious_config_details/raw.githubusercontent.com_68f457a0.txt
 ------------------------------------------------
 URL: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
