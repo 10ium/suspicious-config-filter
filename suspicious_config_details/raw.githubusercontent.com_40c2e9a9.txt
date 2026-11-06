@@ -3,7 +3,12 @@ https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
 ======================================================================
 
 کانفیگ:
-vless://a6be94fc-e742-4714-8a38-c8d7410ae066@188.130.209.227:8443?security=reality&encryption=none&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&host=host%3D---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&sid=ba4b2afa9e7193ea#REALITY|RU🇷🇺 | 188.130.209.227-8443 | 169.72ms
+vless://a6be94fc-e742-4714-8a38-c8d7410ae066@188.130.209.227:8443?security=reality&encryption=none&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&host=host%3D---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR---%2540SPIDDY_IR&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&sid=ba4b2afa9e7193ea#REALITY|RU🇷🇺 | 188.130.209.227-8443 | 150.89ms
+دلایل:
+  - تعداد '%25' (24) برابر یا بیشتر از 15 است
+----------------------------------------
+کانفیگ:
+vless://3d11274e-1267-4777-9904-971192a83c0e@ser2.plasmoon.ir:2026?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=host%3D---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi---%2540starfarsi&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tun2.plasmoon.ir#IR🇮🇷 | tun2.plasmoon.ir-2026 | 583.65ms
 دلایل:
   - تعداد '%25' (24) برابر یا بیشتر از 15 است
 ----------------------------------------
